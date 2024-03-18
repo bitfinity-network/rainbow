@@ -203,6 +203,11 @@ const withBriefBalanceSection = (
         uid: 'remote-card-carousel',
       },
       ...content,
+      { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-3' },
+      {
+        type: 'ADD_TOKEN_BUTTON',
+        uid: 'add-token-button',
+      },
     ],
     isLoadingUserAssets,
     isEmpty,

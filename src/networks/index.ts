@@ -10,6 +10,7 @@ import { getGnosisNetworkObject } from './gnosis';
 import { getBaseNetworkObject } from './base';
 import { getAvalancheNetworkObject } from './avalanche';
 import { getBlastNetworkObject } from './blast';
+import { getBitfinityNetworkObject } from './bitfinity';
 import store from '@/redux/store';
 import * as ls from '@/storage';
 
@@ -29,6 +30,7 @@ export const RainbowNetworks = [
   getBSCNetworkObject(),
   getAvalancheNetworkObject(),
   getBlastNetworkObject(),
+  getBitfinityNetworkObject(),
 ];
 
 /**
@@ -59,6 +61,8 @@ export function getNetworkObj(network: Network): NetworkProperties {
     // Testnets
     case Network.goerli:
       return getGoerliNetworkObject();
+    case Network.bitfinity:
+      return getBitfinityNetworkObject();
 
     // Mainnet
     default:

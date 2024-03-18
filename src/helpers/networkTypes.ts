@@ -10,6 +10,7 @@ export enum Network {
   gnosis = 'gnosis',
   avalanche = 'avalanche',
   blast = 'blast',
+  bitfinity = 'bitfinity',
 }
 
 // We need to keep this one until
@@ -26,4 +27,5 @@ export default {
   gnosis: 'gnosis' as Network,
   avalanche: 'avalanche' as Network,
   blast: 'blast' as Network,
+  bitfinity: 'bitfinity' as Network,
 };

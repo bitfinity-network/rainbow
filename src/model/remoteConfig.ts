@@ -19,6 +19,7 @@ import {
   AVALANCHE_MAINNET_RPC,
   AVALANCHE_MAINNET_RPC_DEV,
   BLAST_MAINNET_RPC,
+  BITFINITY_TESTNET_RPC,
 } from 'react-native-dotenv';
 import { RainbowError, logger } from '@/logger';
 import { getNetwork, saveNetwork } from '@/handlers/localstorage/globalSettings';
@@ -59,6 +60,7 @@ interface RainbowConfig extends Record<string, string | boolean | number> {
   goerli_enabled: boolean;
   avalanche_enabled: boolean;
   blast_enabled: boolean;
+  bitfinity_enabled: boolean;
 
   arbitrum_tx_enabled: boolean;
   base_tx_enabled: boolean;
@@ -71,6 +73,7 @@ interface RainbowConfig extends Record<string, string | boolean | number> {
   goerli_tx_enabled: boolean;
   avalanche_tx_enabled: boolean;
   blast_tx_enabled: boolean;
+  bitfinity_tx_enabled: boolean;
 
   base_swaps_enabled: boolean;
   blast_swaps_enabled: boolean;
@@ -99,6 +102,7 @@ const DEFAULT_CONFIG: RainbowConfig = {
     zora: 200,
     avalanche: 200,
     blast: 200,
+    bitfinity: 200,
   }),
   ethereum_goerli_rpc: __DEV__ ? ETHEREUM_GOERLI_RPC_DEV : ETHEREUM_GOERLI_RPC,
   ethereum_mainnet_rpc: __DEV__ ? ETHEREUM_MAINNET_RPC_DEV : ETHEREUM_MAINNET_RPC,
@@ -113,6 +117,7 @@ const DEFAULT_CONFIG: RainbowConfig = {
   base_mainnet_rpc: __DEV__ ? BASE_MAINNET_RPC_DEV : BASE_MAINNET_RPC,
   avalanche_mainnet_rpc: __DEV__ ? AVALANCHE_MAINNET_RPC_DEV : AVALANCHE_MAINNET_RPC,
   blast_mainnet_rpc: BLAST_MAINNET_RPC,
+  bitfinity_testnet_rpc: BITFINITY_TESTNET_RPC,
   swagg_enabled: true,
   trace_call_block_number_offset: 20,
   profiles_enabled: true,

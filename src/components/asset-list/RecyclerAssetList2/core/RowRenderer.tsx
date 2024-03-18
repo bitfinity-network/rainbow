@@ -32,6 +32,7 @@ import WrappedPositionsListHeader from '../WrappedPositionsListHeader';
 import * as lang from '@/languages';
 import { RemoteCardCarousel } from '@/components/cards/remote-cards';
 import WrappedCollectiblesHeader from '../WrappedCollectiblesHeader';
+import { AddTokenButton } from './AddTokenButton';
 
 function rowRenderer(type: CellType, { uid }: { uid: string }, _: unknown, extendedState: ExtendedState) {
   const data = extendedState.additionalData[uid];
@@ -65,7 +66,12 @@ function rowRenderer(type: CellType, { uid }: { uid: string }, _: unknown, exten
           <DiscoverMoreButton />
         </CardRowWrapper>
       );
-
+    case CellType.ADD_TOKEN_BUTTON:
+      return (
+        <CardRowWrapper>
+          <AddTokenButton />
+        </CardRowWrapper>
+      );
     case CellType.RECEIVE_CARD:
       return (
         <CardRowWrapper>
