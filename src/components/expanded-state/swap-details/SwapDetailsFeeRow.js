@@ -24,13 +24,13 @@ export default function SwapDetailsFeeRow({ tradeDetails, network, testID }) {
   const handleLabelPress = useCallback(() => {
     navigate(Routes.EXPLAIN_SHEET, {
       feePercentage: rainbowFeePercentageDisplay,
-      type: 'rainbow_fee',
+      type: 'bitfinity_fee',
     });
   }, [navigate, rainbowFeePercentageDisplay]);
 
   return (
     <SwapDetailsRow
-      label={`${lang.t('expanded_state.swap_details.rainbow_fee')} 􀅵`}
+      label={`${lang.t('expanded_state.swap_details.bitfinity_fee')} 􀅵`}
       labelPress={handleLabelPress}
       testID={testID}
       valuePress={nextStep}

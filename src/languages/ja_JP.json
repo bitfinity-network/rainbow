@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "おっと！",
-      "restart_rainbow": "レインボーを再起動してください",
+      "restart_bitfinity": "レインボーを再起動してください",
       "something_went_wrong": "何か問題が発生しました",
       "wallets_are_safe": "心配しないで、ウォレットは安全です！アプリを再起動して、ビジネスに戻りましょう"
     },
@@ -507,7 +507,7 @@
         "label": "可能な損失"
       },
       "source": {
-        "rainbow": "自動",
+        "bitfinity": "自動",
         "0x": "0x",
         "1inch": "1inch"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "報酬",
         "exchange_rate": "為替レート",
-        "rainbow_fee": "含まれるレインボーフィー",
+        "bitfinity_fee": "含まれるレインボーフィー",
         "refuel": "追加のネットワークトークン",
         "review": "レビュー",
         "show_details": "詳細",
@@ -711,7 +711,7 @@
         "poolboy_text": "オンチェーンの夏のための特別なエディション、レインボーxプールスイートアイコンです。",
         "poolboy_title": "\nレインボー Poolboyをアンロックしました！",
         "adworld_text": "あなたは雨虹世界市民として、特別版の\nAdWorld x Rainbowアプリアイコンを解除できるようになりました。",
-        "adworld_title": "Rainbow Worldへようこそ！",
+        "adworld_title": "Bitfinity Worldへようこそ！",
         "title": "\nレインボー 􀆄 %{partner}をアンロックしました！",
         "button": "アイコンをゲット"
       },
@@ -846,7 +846,7 @@
       "go_to_hop_with_icon": {
         "text": "Hop Bridge 􀮶に移動する"
       },
-      "rainbow_fee": {
+      "bitfinity_fee": {
         "text": "Rainbowはスワップから %{feePercentage} の手数料を取ります。これが私たちが最高のEthereum体験を提供するための一部です。"
       },
       "swap_routing": {
@@ -1304,8 +1304,8 @@
         "calculation_complete": "計算完了",
         "metamask_swaps": "MetaMaskスワップ",
         "wallet_balance": "ウォレット残高",
-        "rainbow_nfts_owned": "所有するレインボーNFTs",
-        "rainbow_swaps": "レインボースワップ",
+        "bitfinity_nfts_owned": "所有するレインボーNFTs",
+        "bitfinity_swaps": "レインボースワップ",
         "calculating_points": "ポイント計算中",
         "access_granted": "アクセス許可",
         "sign_in_with_wallet": "ウォレットでサインインしてください",
@@ -1584,7 +1584,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "Rainbowをお楽しみいただけていますか？ 🥰",
+        "are_you_enjoying_bitfinity": "Rainbowをお楽しみいただけていますか？ 🥰",
         "leave_a_review": "App Storeでレビューしてください！",
         "no": "いいえ",
         "yes": "はい"
@@ -1625,7 +1625,7 @@
       "rewards_claimed": "今週の報酬請求済み",
       "refreshes_next_week": "次週にリフレッシュ",
       "all_rewards_claimed": "今週の報酬は全て請求済みです",
-      "rainbow_users_claimed": "レインボーユーザーが %{amount}件請求済み",
+      "bitfinity_users_claimed": "レインボーユーザーが %{amount}件請求済み",
       "refreshes_in_with_days": "%{days} 日 %{hours} 時間後にリフレッシュ",
       "refreshes_in_without_days": "%{hours} 時間後にリフレッシュ",
       "percent": "%{percent}%の報酬",
@@ -1715,7 +1715,7 @@
       "feedback_and_reports": "Feedback & Bug Reports",
       "feedback_and_support": "Feedback and Support",
       "follow_us_on_twitter": "Follow us on Twitter",
-      "hey_friend_message": "👋️ Hey friend! You should download Rainbow, it's my favorite Ethereum wallet 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
+      "hey_friend_message": "👋️ Hey friend! You should download Bitfinity, it's my favorite Ethereum wallet 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
       "label": "設定",
       "language": "Language",
       "learn": "Learn about Ethereum",
@@ -1762,7 +1762,7 @@
       },
       "restore": "元の展開に復元",
       "review": "Rainbowをレビュー",
-      "share_rainbow": "Rainbowを共有",
+      "share_bitfinity": "Rainbowを共有",
       "theme": "テーマ",
       "theme_section": {
         "system": "システム",
@@ -2167,7 +2167,7 @@
         "cancel": "いいえ、結構です",
         "choice": "Would you like to manually copy our feedback email address to your clipboard?",
         "copy_email_address": "Copy email address",
-        "email_subject": "📱 Rainbow Beta フィードバック",
+        "email_subject": "📱 Bitfinity Beta フィードバック",
         "error": "Error launching email client",
         "send": "フィードバックを送信する"
       },

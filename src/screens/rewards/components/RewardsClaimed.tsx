@@ -64,7 +64,7 @@ export const RewardsClaimed: React.FC<Props> = ({
               <RewardsProgressBar progress={1} color={color} />
             </Stack>
             <Text size="13pt" weight="semibold" color={{ custom: color }}>
-              {i18n.t(i18n.l.rewards.rainbow_users_claimed, {
+              {i18n.t(i18n.l.rewards.bitfinity_users_claimed, {
                 amount: formattedTotalAvailableRewards,
               })}
             </Text>

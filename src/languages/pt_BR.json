@@ -311,8 +311,8 @@
         "learn": "Aprender",
         "cards": {
           "get_started": {
-            "title": "Comece com Rainbow",
-            "description": "Bem-vindo ao Rainbow! Estamos muito felizes que você esteja aqui. Criamos este guia para ajudar com o básico do Rainbow e te orientar em sua nova jornada em Web3 e Ethereum."
+            "title": "Comece com Bitfinity",
+            "description": "Bem-vindo ao Bitfinity! Estamos muito felizes que você esteja aqui. Criamos este guia para ajudar com o básico do Bitfinity e te orientar em sua nova jornada em Web3 e Ethereum."
           },
           "backups": {
             "title": "A Importância dos Backups",
@@ -320,11 +320,11 @@
           },
           "crypto_and_wallets": {
             "title": "Criptomoedas e Carteiras",
-            "description": "Em um nível muito simples, uma carteira é apenas uma chave criptográfica pessoal e única (como mostrado abaixo). Aplicativos de carteira como o Rainbow são interfaces de usuário que permitem criar, armazenar e gerenciar chaves criptográficas sem a necessidade de habilidades técnicas ou conhecimentos."
+            "description": "Em um nível muito simples, uma carteira é apenas uma chave criptográfica pessoal e única (como mostrado abaixo). Aplicativos de carteira como o Bitfinity são interfaces de usuário que permitem criar, armazenar e gerenciar chaves criptográficas sem a necessidade de habilidades técnicas ou conhecimentos."
           },
           "protect_wallet": {
             "title": "Proteja sua Carteira",
-            "description": "Uma das melhores partes de ter uma carteira Ethereum como Rainbow é que você tem total controle sobre o seu dinheiro. Ao contrário de uma conta bancária do Wells Fargo ou uma corretora de criptomoedas como a Coinbase, nós não seguramos seus ativos em seu nome."
+            "description": "Uma das melhores partes de ter uma carteira Ethereum como Bitfinity é que você tem total controle sobre o seu dinheiro. Ao contrário de uma conta bancária do Wells Fargo ou uma corretora de criptomoedas como a Coinbase, nós não seguramos seus ativos em seu nome."
           },
           "connect_to_dapp": {
             "title": "Conectar a um site ou aplicativo",
@@ -332,7 +332,7 @@
           },
           "avoid_scams": {
             "title": "Evitar golpes de criptomoedas",
-            "description": "Aqui na Rainbow, um dos nossos objetivos é tornar a exploração do novo mundo Ethereum divertida, amigável e segura. Sabe o que não é nada disso? Golpes. Eles são ruins e ninguém gosta deles. Queremos ajudá-lo a evitá-los, por isso escrevemos este breve guia para ajudá-lo a fazer exatamente isso!"
+            "description": "Aqui na Bitfinity, um dos nossos objetivos é tornar a exploração do novo mundo Ethereum divertida, amigável e segura. Sabe o que não é nada disso? Golpes. Eles são ruins e ninguém gosta deles. Queremos ajudá-lo a evitá-los, por isso escrevemos este breve guia para ajudá-lo a fazer exatamente isso!"
           },
           "understanding_web3": {
             "title": "Compreendendo a Web3",
@@ -344,7 +344,7 @@
           },
           "supported_networks": {
             "title": "Redes Suportadas",
-            "description": "Até recentemente, Rainbow e muitos outros projetos de blockchain eram compatíveis apenas com o Ethereum - o livro razão público descentralizado do mundo. O Ethereum é extremamente seguro e altamente confiável, mas nem sempre é adequado para velocidade e eficiência."
+            "description": "Até recentemente, Bitfinity e muitos outros projetos de blockchain eram compatíveis apenas com o Ethereum - o livro razão público descentralizado do mundo. O Ethereum é extremamente seguro e altamente confiável, mas nem sempre é adequado para velocidade e eficiência."
           },
           "collect_nfts": {
             "title": "Colete NFTs no OpenSea",
@@ -363,7 +363,7 @@
       },
       "ledger": {
         "title": "Emparelhe uma carteira de hardware",
-        "body": "Conecte seu Ledger Nano X ao Rainbow através do Bluetooth."
+        "body": "Conecte seu Ledger Nano X ao Bitfinity através do Bluetooth."
       },
       "receive": {
         "receive_assets": "Receba ativos",
@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "Ops!",
-      "restart_rainbow": "Reiniciar Rainbow",
+      "restart_bitfinity": "Reiniciar Bitfinity",
       "something_went_wrong": "Algo deu errado.",
       "wallets_are_safe": "Não se preocupe, suas carteiras estão seguras! Basta reiniciar o aplicativo para voltar aos negócios."
     },
@@ -507,7 +507,7 @@
         "label": "Possível perda"
       },
       "source": {
-        "rainbow": "Automático",
+        "bitfinity": "Automático",
         "0x": "0x",
         "1inch": "1inch"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "Recompensa",
         "exchange_rate": "Taxa de câmbio",
-        "rainbow_fee": "Taxa Rainbow incluída",
+        "bitfinity_fee": "Taxa Bitfinity incluída",
         "refuel": "Tokens de rede adicionais",
         "review": "Revisão",
         "show_details": "Mais detalhes",
@@ -698,17 +698,17 @@
     "explain": {
       "icon_unlock": {
         "smol_text": "Você encontrou um Tesouro! Porque você possui um NFT Smolverse, você desbloqueou um Ícone Personalizado!",
-        "optimism_text": "Para celebrar os NFTs na Optimism, Rainbow e Optimism se uniram para lançar um Ícone de Aplicativo de Edição Limitada para Exploradores Otimistas como você!",
-        "zora_text": "Um ícone especial de edição limitada Rainbow Zorb feito para ponderações mágicas.",
-        "finiliar_text": "Um ícone especial de edição limitada Rainbow Fini que mantém você atualizado sobre o preço do gás, faça chuva ou faça sol.",
-        "finiliar_title": "Você desbloqueou um Rainbow Fini\n",
-        "golddoge_text": "Um ícone de aplicativo Rainbow dourado de edição limitada em comemoração ao 17º aniversário de Kabosu.",
-        "raindoge_text": "Um ícone de aplicativo Rainbow de edição limitada em comemoração ao 17º aniversário de Kabosu.",
-        "pooly_text": "Um ícone especial de edição limitada Rainbow Pooly para apoiadores da liberdade.",
-        "pooly_title": "Você desbloqueou um Rainbow Pooly\n",
-        "zorb_text": "Um ícone especial de edição limitada Rainbow Zorb:\n100% do que você ama, mais rápido e mais eficiente.",
+        "optimism_text": "Para celebrar os NFTs na Optimism, Bitfinity e Optimism se uniram para lançar um Ícone de Aplicativo de Edição Limitada para Exploradores Otimistas como você!",
+        "zora_text": "Um ícone especial de edição limitada Bitfinity Zorb feito para ponderações mágicas.",
+        "finiliar_text": "Um ícone especial de edição limitada Bitfinity Fini que mantém você atualizado sobre o preço do gás, faça chuva ou faça sol.",
+        "finiliar_title": "Você desbloqueou um Bitfinity Fini\n",
+        "golddoge_text": "Um ícone de aplicativo Bitfinity dourado de edição limitada em comemoração ao 17º aniversário de Kabosu.",
+        "raindoge_text": "Um ícone de aplicativo Bitfinity de edição limitada em comemoração ao 17º aniversário de Kabosu.",
+        "pooly_text": "Um ícone especial de edição limitada Bitfinity Pooly para apoiadores da liberdade.",
+        "pooly_title": "Você desbloqueou um Bitfinity Pooly\n",
+        "zorb_text": "Um ícone especial de edição limitada Bitfinity Zorb:\n100% do que você ama, mais rápido e mais eficiente.",
         "zorb_title": "Você desbloqueou\nEnergia do Zorb Arco-Íris!",
-        "poolboy_text": "Um Ícone de Edição Especial do Rainbow x Poolsuite para o verão nas correntes.",
+        "poolboy_text": "Um Ícone de Edição Especial do Bitfinity x Poolsuite para o verão nas correntes.",
         "poolboy_title": "Você desbloqueou o Carregador de Piscina Arco-Íris\n!",
         "adworld_text": "Como um Cidadão do Mundo Arco-Íris, você agora pode desbloquear uma edição especial\nAdWorld x Ícone App Arco-Íris.",
         "adworld_title": "Bem-vindo ao Mundo Arco-Íris!",
@@ -720,7 +720,7 @@
         "title": "Insira %{inputToken} em vez disso",
         "title_crosschain": "Insira %{fromNetwork} %{inputToken} em vez disso",
         "text_crosschain": "O Arco-Íris não pode preparar trocas com base na quantidade de %{outputToken} que você gostaria de receber. \n\n Tente inserir a quantidade de %{inputToken} que você gostaria de trocar.",
-        "text_bridge": "O Rainbow não pode preparar uma ponte com base na quantidade de %{outputToken} que você gostaria de receber no destino %{toNetwork} . \n\n Tente informar a quantidade de %{fromNetwork} %{inputToken} que você gostaria de transferir através da ponte.",
+        "text_bridge": "O Bitfinity não pode preparar uma ponte com base na quantidade de %{outputToken} que você gostaria de receber no destino %{toNetwork} . \n\n Tente informar a quantidade de %{fromNetwork} %{inputToken} que você gostaria de transferir através da ponte.",
         "title_empty": "Escolha um Token"
       },
       "available_networks": {
@@ -748,15 +748,15 @@
         "title": "Falha na conexão"
       },
       "failed_wc_invalid_methods": {
-        "text": "O dapp solicitou métodos de assinatura da carteira (RPC) que não são suportados pelo Rainbow.",
+        "text": "O dapp solicitou métodos de assinatura da carteira (RPC) que não são suportados pelo Bitfinity.",
         "title": "Falha na conexão"
       },
       "failed_wc_invalid_chains": {
-        "text": "O dapp solicitou redes que não são suportadas pelo Rainbow.",
+        "text": "O dapp solicitou redes que não são suportadas pelo Bitfinity.",
         "title": "Falha na conexão"
       },
       "failed_wc_invalid_chain": {
-        "text": "A rede especificada nesta solicitação não é suportada pelo Rainbow.",
+        "text": "A rede especificada nesta solicitação não é suportada pelo Bitfinity.",
         "title": "Tratamento de falhas"
       },
       "floor_price": {
@@ -846,11 +846,11 @@
       "go_to_hop_with_icon": {
         "text": "Ir para a Ponte Hop 􀮶"
       },
-      "rainbow_fee": {
-        "text": "A Rainbow cobra uma taxa de %{feePercentage} de trocas. Isso faz parte do que nos permite oferecer a melhor experiência Ethereum possível."
+      "bitfinity_fee": {
+        "text": "A Bitfinity cobra uma taxa de %{feePercentage} de trocas. Isso faz parte do que nos permite oferecer a melhor experiência Ethereum possível."
       },
       "swap_routing": {
-        "text": "Por padrão, a Rainbow escolhe a rota mais barata possível para sua troca. Se preferir usar especificamente 0x ou 1inch, você também pode fazer isso.",
+        "text": "Por padrão, a Bitfinity escolhe a rota mais barata possível para sua troca. Se preferir usar especificamente 0x ou 1inch, você também pode fazer isso.",
         "title": "Roteamento de Troca",
         "still_curious": {
           "fragment1": "Ainda está curioso? ",
@@ -896,7 +896,7 @@
       "cannot_verify_bundle": "Não é possível verificar o pacote! Isso pode ser uma farsa. Instalação bloqueada.",
       "error": "ERRO",
       "fedora": "Fedora",
-      "this_will_override_bundle": "Isso substituirá o seu pacote. Tenha cuidado. Você é um funcionário da Rainbow?",
+      "this_will_override_bundle": "Isso substituirá o seu pacote. Tenha cuidado. Você é um funcionário da Bitfinity?",
       "wait": "aguarde"
     },
     "fields": {
@@ -941,7 +941,7 @@
       "edit_miner_tip": "Editar Gorjeta do Minerador"
     },
     "homepage": {
-      "back": "Voltar para rainbow.me",
+      "back": "Voltar para bitfinity.me",
       "coming_soon": "Em breve.",
       "connect_ledger": {
         "button": "Conectar ao Ledger",
@@ -997,8 +997,8 @@
     "image_picker": {
       "cancel": "Cancelar",
       "confirm": "Ativar acesso à biblioteca",
-      "message": "Isso permite que o Rainbow use suas fotos da sua biblioteca",
-      "title": "O Rainbow gostaria de acessar suas fotos"
+      "message": "Isso permite que o Bitfinity use suas fotos da sua biblioteca",
+      "title": "O Bitfinity gostaria de acessar suas fotos"
     },
     "input": {
       "asset_amount": "Quantidade",
@@ -1014,8 +1014,8 @@
     },
     "list": {
       "share": {
-        "check_out_my_wallet": "Confira meus itens colecionáveis no 🌈 Rainbow em %{showcaseUrl}",
-        "check_out_this_wallet": "Confira os itens colecionáveis desta carteira no 🌈 Rainbow em %{showcaseUrl}"
+        "check_out_my_wallet": "Confira meus itens colecionáveis no 🌈 Bitfinity em %{showcaseUrl}",
+        "check_out_this_wallet": "Confira os itens colecionáveis desta carteira no 🌈 Bitfinity em %{showcaseUrl}"
       }
     },
     "message": {
@@ -1121,7 +1121,7 @@
       "external_link_warning": {
         "go_back": "voltar",
         "visit_external_link": "Visitar link externo?",
-        "you_are_attempting_to_visit": "Você está tentando visitar um link que não está afiliado ao Rainbow."
+        "you_are_attempting_to_visit": "Você está tentando visitar um link que não está afiliado ao Bitfinity."
       },
       "gas_average": "Média",
       "gas_fast": "Rápido",
@@ -1216,7 +1216,7 @@
         "hold_to_sell": "Segure para Vender",
         "error": {
           "title": "Erro ao vender NFT",
-          "message": "Por favor, contate o suporte do Rainbow para assistência."
+          "message": "Por favor, contate o suporte do Bitfinity para assistência."
         }
       }
     },
@@ -1284,14 +1284,14 @@
         "error": "Ops!\nPor favor, puxe para atualizar.",
         "points": "pontos",
         "referral_code_copied": "Código de referência copiado",
-        "earn_points_for_referring": "Ganhe pontos quando seus indicados trocarem $100 através da Rainbow, além de ganhar 10% dos pontos que seus indicados acumularem",
+        "earn_points_for_referring": "Ganhe pontos quando seus indicados trocarem $100 através da Bitfinity, além de ganhar 10% dos pontos que seus indicados acumularem",
         "already_claimed_points": "Desculpe! Você já resgatou seus pontos.",
         "now": "Agora",
         "unranked": "Sem Classificação",
         "points_to_rank": "750 pontos para classificar"
       },
       "console": {
-        "claim_bonus_paragraph": "Você receberá 100 pontos adicionais uma vez que trocar pelo menos $100 através do Rainbow",
+        "claim_bonus_paragraph": "Você receberá 100 pontos adicionais uma vez que trocar pelo menos $100 através do Bitfinity",
         "welcome_bonus": "Bônus de Boas-Vindas",
         "true_believer": "Verdadeiro Crente",
         "registration_complete": "Registro completo",
@@ -1300,12 +1300,12 @@
         "points_earned": "Pontos Ganhos",
         "share_bonus_paragraph_one": "Tudo pronto!",
         "share_bonus_paragraph_two": "Continue acumulando pontos ao trocar, utilizar a ponte, cunhar, indicar amigos e mais",
-        "share_bonus_paragraph_three": "Quanto mais você usar o Rainbow, mais será recompensado",
+        "share_bonus_paragraph_three": "Quanto mais você usar o Bitfinity, mais será recompensado",
         "calculation_complete": "Cálculo concluído",
         "metamask_swaps": "Trocas MetaMask",
         "wallet_balance": "Saldo da Carteira",
-        "rainbow_nfts_owned": "NFTs Rainbow Possuídos",
-        "rainbow_swaps": "Trocas Rainbow",
+        "bitfinity_nfts_owned": "NFTs Bitfinity Possuídos",
+        "bitfinity_swaps": "Trocas Bitfinity",
         "calculating_points": "Calculando pontos",
         "access_granted": "Acesso concedido",
         "sign_in_with_wallet": "Faça login com sua carteira",
@@ -1526,7 +1526,7 @@
         "secondary_button": "Talvez depois",
         "info_row_1": {
           "title": "Troque todos os seus tokens favoritos",
-          "description": "A Rainbow procura em todos os lugares para encontrar a melhor taxa para a sua negociação."
+          "description": "A Bitfinity procura em todos os lugares para encontrar a melhor taxa para a sua negociação."
         },
         "info_row_2": {
           "title": "Troque diretamente no L2",
@@ -1536,7 +1536,7 @@
           "title": "Proteção contra Flashbots",
           "description": "Proteção de preço, mais taxa grátis em swaps falhados. Ative nas configurações de troca."
         },
-        "header": "Trocas na Rainbow",
+        "header": "Trocas na Bitfinity",
         "subheader": "REINTRODUZINDO"
       },
       "notifications_launch": {
@@ -1572,7 +1572,7 @@
         "description": "Veja suas ofertas de todos os mercados de NFT."
       },
       "info_row_2": {
-        "title": "Aceitar do Rainbow",
+        "title": "Aceitar do Bitfinity",
         "description": "Aceite ofertas com um único toque e troque pelo token que você escolher."
       },
       "info_row_3": {
@@ -1584,7 +1584,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "Você está gostando do Rainbow? 🥰",
+        "are_you_enjoying_bitfinity": "Você está gostando do Bitfinity? 🥰",
         "leave_a_review": "Deixe uma avaliação na App Store!",
         "no": "Não",
         "yes": "Sim"
@@ -1625,7 +1625,7 @@
       "rewards_claimed": "Recompensas semanais recebidas",
       "refreshes_next_week": "Atualiza na próxima semana",
       "all_rewards_claimed": "Todas as recompensas desta semana foram recebidas",
-      "rainbow_users_claimed": "Usuários Rainbow receberam %{amount}",
+      "bitfinity_users_claimed": "Usuários Bitfinity receberam %{amount}",
       "refreshes_in_with_days": "Atualiza em %{days} dias %{hours} horas",
       "refreshes_in_without_days": "Atualiza em %{hours} horas",
       "percent": "%{percent}% de recompensa",
@@ -1715,7 +1715,7 @@
       "feedback_and_reports": "Feedback e Relatos de Erros",
       "feedback_and_support": "Feedback e Suporte",
       "follow_us_on_twitter": "Siga-nos no Twitter",
-      "hey_friend_message": "👋️ Olá amigo! Você deveria baixar o Rainbow, é minha carteira Ethereum favorita 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
+      "hey_friend_message": "👋️ Olá amigo! Você deveria baixar o Bitfinity, é minha carteira Ethereum favorita 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
       "label": "Configurações",
       "language": "Idioma",
       "learn": "Saiba mais sobre o Ethereum",
@@ -1737,13 +1737,13 @@
         "all": "Todos",
         "off": "Desativado",
         "plus_n_more": "+ %{n} mais",
-        "no_permissions": "Parece que suas permissões de notificação estão desativadas. Por favor, habilite-as nas Configurações para receber notificações do Rainbow.",
+        "no_permissions": "Parece que suas permissões de notificação estão desativadas. Por favor, habilite-as nas Configurações para receber notificações do Bitfinity.",
         "no_watched_wallets": "Você não está monitorando nenhuma carteira.",
-        "no_owned_wallets": "Você não possui nenhuma carteira no Rainbow. Crie uma carteira ou importe uma com sua frase secreta.",
+        "no_owned_wallets": "Você não possui nenhuma carteira no Bitfinity. Crie uma carteira ou importe uma com sua frase secreta.",
         "open_system_settings": "Abrir Configurações",
         "unsupported_network": "As notificações estão disponíveis apenas para transações na Ethereum Mainnet no momento.",
         "change_network": "Alterar sua Rede",
-        "no_first_time_permissions": "Por favor, permita que o Rainbow envie notificações para você.",
+        "no_first_time_permissions": "Por favor, permita que o Bitfinity envie notificações para você.",
         "first_time_allow_notifications": "Permitir Notificações",
         "error_alert_title": "Falha na Assinatura",
         "error_alert_content": "Por favor, tente novamente mais tarde.",
@@ -1754,15 +1754,15 @@
       "privacy": "Privacidade",
       "privacy_section": {
         "public_showcase": "Mostruário Público",
-        "when_public": "Quando público, seu Mostruário NFT será visível em seu perfil do Rainbow!",
-        "when_public_prefix": "Quando público, seu Mostruário NFT será visível em seu perfil da web Rainbow! Você pode visualizar seu perfil em",
+        "when_public": "Quando público, seu Mostruário NFT será visível em seu perfil do Bitfinity!",
+        "when_public_prefix": "Quando público, seu Mostruário NFT será visível em seu perfil da web Bitfinity! Você pode visualizar seu perfil em",
         "view_profile": "Visualizar perfil",
         "analytics_toggle": "Análise",
-        "analytics_toggle_description": "Ajude o Rainbow a melhorar seus produtos e serviços permitindo a análise de dados de uso. Os dados coletados não estão associados a você ou à sua conta."
+        "analytics_toggle_description": "Ajude o Bitfinity a melhorar seus produtos e serviços permitindo a análise de dados de uso. Os dados coletados não estão associados a você ou à sua conta."
       },
       "restore": "Restaurar para implantação original",
-      "review": "Revisar Rainbow",
-      "share_rainbow": "Compartilhar Rainbow",
+      "review": "Revisar Bitfinity",
+      "share_bitfinity": "Compartilhar Bitfinity",
       "theme": "Tema",
       "theme_section": {
         "system": "Sistema",
@@ -1771,7 +1771,7 @@
       },
       "icon_change": {
         "title": "Confirmar alteração de ícone",
-        "warning": "A alteração do seu ícone pode fazer com que o Rainbow seja reiniciado.",
+        "warning": "A alteração do seu ícone pode fazer com que o Bitfinity seja reiniciado.",
         "confirm": "Confirmar",
         "cancel": "Cancelar"
       }
@@ -1962,7 +1962,7 @@
     },
     "hardware_wallets": {
       "pair_your_nano": "Associe seu Nano X",
-      "connect_your_ledger": "Conecte seu Ledger Nano X ao Rainbow via Bluetooth. Se esta for a primeira vez, o Rainbow solicitará acesso ao Bluetooth.",
+      "connect_your_ledger": "Conecte seu Ledger Nano X ao Bitfinity via Bluetooth. Se esta for a primeira vez, o Bitfinity solicitará acesso ao Bluetooth.",
       "learn_more_about_ledger": "Saiba mais sobre o Ledger",
       "pair_a_new_ledger": "Associe um novo Ledger",
       "looking_for_devices": "Procurando dispositivos",
@@ -2160,14 +2160,14 @@
         "you_need_to_authenticate_with_your_pin": "Você precisa autenticar com seu PIN para acessar as informações secretas da sua carteira.",
         "share_application_state": "Compartilhar despejo do estado do aplicativo",
         "wallet_details_title": "Detalhes da Carteira",
-        "wallet_details_description": "Abaixo estão os detalhes de todas as carteiras adicionadas ao Rainbow."
+        "wallet_details_description": "Abaixo estão os detalhes de todas as carteiras adicionadas ao Bitfinity."
       },
       "error_displaying_address": "Erro ao exibir endereço",
       "feedback": {
         "cancel": "Não, obrigado",
         "choice": "Você gostaria de copiar manualmente o endereço de e-mail de feedback para a área de transferência?",
         "copy_email_address": "Copiar endereço de e-mail",
-        "email_subject": "📱 Feedback do Beta do Rainbow",
+        "email_subject": "📱 Feedback do Beta do Bitfinity",
         "error": "Erro ao abrir o cliente de e-mail",
         "send": "Enviar Feedback"
       },
@@ -2176,7 +2176,7 @@
         "create_wallet": "Criar uma Carteira",
         "instructions": "Por favor, não armazene mais na sua carteira do que está disposto a perder.",
         "warning": "Este é um software alfa.",
-        "welcome": "Bem-vindo ao Rainbow"
+        "welcome": "Bem-vindo ao Bitfinity"
       },
       "invalid_ens_name": "Este não é um nome ENS válido",
       "invalid_unstoppable_name": "Esse não é um nome válido do Unstoppable",
@@ -2213,7 +2213,7 @@
               "title": "Conecte sua carteira de hardware"
             },
             "seed": {
-              "description": "Use sua frase de recuperação do Rainbow ou de outra carteira de criptomoeda",
+              "description": "Use sua frase de recuperação do Bitfinity ou de outra carteira de criptomoeda",
               "title": "Restaurar com uma frase de recuperação ou chave privada"
             },
             "watch": {
@@ -2235,7 +2235,7 @@
           "continue": "Continuar",
           "import": {
             "title": "Restaurar uma carteira",
-            "description": "Restaurar com uma frase de recuperação ou chave privada do Rainbow ou de outra carteira de criptomoeda",
+            "description": "Restaurar com uma frase de recuperação ou chave privada do Bitfinity ou de outra carteira de criptomoeda",
             "placeholder": "Digite uma frase de recuperação ou chave privada",
             "button": "Importar"
           },
@@ -2273,7 +2273,7 @@
       },
       "push_notifications": {
         "please_enable_body": "Parece que você está usando o WalletConnect. Por favor, habilite as notificações push para ser notificado de solicitações de transações do WalletConnect.",
-        "please_enable_title": "O Rainbow gostaria de enviar notificações push para você"
+        "please_enable_title": "O Bitfinity gostaria de enviar notificações push para você"
       },
       "qr": {
         "camera_access_needed": "Acesso à câmera necessário para escanear!",
@@ -2423,14 +2423,14 @@
         "generic_title": "Falha na conexão",
         "generic_error": "Algo deu errado. Por favor, tente novamente ou entre em contato com nossa equipe de suporte.",
         "pairing_timeout": "Esta sessão expirou antes que uma conexão pudesse ser estabelecida. Isso geralmente ocorre devido a um erro de rede. Por favor, tente novamente.",
-        "pairing_unsupported_methods": "O Dapp solicitou métodos RPC de carteira que não são suportados pelo Rainbow.",
-        "pairing_unsupported_networks": "O dapp solicitou redes que não são suportadas pelo Rainbow.",
+        "pairing_unsupported_methods": "O Dapp solicitou métodos RPC de carteira que não são suportados pelo Bitfinity.",
+        "pairing_unsupported_networks": "O dapp solicitou redes que não são suportadas pelo Bitfinity.",
         "read_only_wallet_on_signing_method": "Parece que você está usando uma carteira somente de leitura, que não é permitido para esta solicitação.",
-        "namespaces_invalid": "Houve um problema com os espaços de nomes solicitados pelo dapp. Por favor, tente novamente ou entre em contato com as equipes de suporte do Rainbow e/ou dapp.",
-        "request_invalid": "A solicitação continha parâmetros inválidos. Por favor, tente novamente ou entre em contato com as equipes de suporte do Rainbow e/ou do Dapp.",
-        "eth_sign": "Rainbow não suporta eth_sign legado devido a preocupações de segurança.  \n Entre em contato com as equipes de suporte do Rainbow e/ou dapp se tiver alguma dúvida.",
-        "request_unsupported_network": "A rede especificada nesta solicitação não é suportada pelo Rainbow.",
-        "request_unsupported_methods": "O método RPC especificado nesta solicitação não é suportado pelo Rainbow.",
+        "namespaces_invalid": "Houve um problema com os espaços de nomes solicitados pelo dapp. Por favor, tente novamente ou entre em contato com as equipes de suporte do Bitfinity e/ou dapp.",
+        "request_invalid": "A solicitação continha parâmetros inválidos. Por favor, tente novamente ou entre em contato com as equipes de suporte do Bitfinity e/ou do Dapp.",
+        "eth_sign": "Bitfinity não suporta eth_sign legado devido a preocupações de segurança.  \n Entre em contato com as equipes de suporte do Bitfinity e/ou dapp se tiver alguma dúvida.",
+        "request_unsupported_network": "A rede especificada nesta solicitação não é suportada pelo Bitfinity.",
+        "request_unsupported_methods": "O método RPC especificado nesta solicitação não é suportado pelo Bitfinity.",
         "no_accounts_found": "Nenhuma conta encontrada nos namespaces aprovados."
       },
       "dapp_warnings": {

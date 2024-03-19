@@ -311,8 +311,8 @@
         "learn": "Learn",
         "cards": {
           "get_started": {
-            "title": "Get Started with Rainbow",
-            "description": "Welcome to Rainbow! We're so glad you're here. We've created this guide to help with the basics of Rainbow and get you started on your new Web3 and Ethereum journey."
+            "title": "Get Started with Bitfinity",
+            "description": "Welcome to Bitfinity! We're so glad you're here. We've created this guide to help with the basics of Bitfinity and get you started on your new Web3 and Ethereum journey."
           },
           "backups": {
             "title": "The Importance of Backups",
@@ -320,11 +320,11 @@
           },
           "crypto_and_wallets": {
             "title": "Crypto and Wallets",
-            "description": "On a really simple level, a wallet is just a personal and unique cryptographic key (as shown below). Wallet apps like Rainbow are user interfaces that allow you to create, store, and manage cryptographic keys without having to have technical skills or knowledge."
+            "description": "On a really simple level, a wallet is just a personal and unique cryptographic key (as shown below). Wallet apps like Bitfinity are user interfaces that allow you to create, store, and manage cryptographic keys without having to have technical skills or knowledge."
           },
           "protect_wallet": {
             "title": "Protect Your Wallet",
-            "description": "One of the best parts of having an Ethereum wallet like Rainbow is that you are in total control of your money. Unlike a bank account from Wells Fargo or a crypto exchange like Coinbase, we do not hold your assets on your behalf."
+            "description": "One of the best parts of having an Ethereum wallet like Bitfinity is that you are in total control of your money. Unlike a bank account from Wells Fargo or a crypto exchange like Coinbase, we do not hold your assets on your behalf."
           },
           "connect_to_dapp": {
             "title": "Connect to a Website or App",
@@ -332,7 +332,7 @@
           },
           "avoid_scams": {
             "title": "Avoid Crypto Scams",
-            "description": "Here at Rainbow, one of our goals is to make exploring the new world of Ethereum fun, friendly, and safe. You know what's not any of those things? Scams. They're mean, and no one likes them. We want to help you avoid them, so we wrote this brief guide to help you do exactly that!"
+            "description": "Here at Bitfinity, one of our goals is to make exploring the new world of Ethereum fun, friendly, and safe. You know what's not any of those things? Scams. They're mean, and no one likes them. We want to help you avoid them, so we wrote this brief guide to help you do exactly that!"
           },
           "understanding_web3": {
             "title": "Understanding Web3",
@@ -344,7 +344,7 @@
           },
           "supported_networks": {
             "title": "Supported Networks",
-            "description": "Up until recently, Rainbow and many other blockchain projects have only been compatible with Ethereum—the world's public decentralized ledger. Ethereum is extremely secure and highly reliable, but it isn't always well suited for speed and efficiency."
+            "description": "Up until recently, Bitfinity and many other blockchain projects have only been compatible with Ethereum—the world's public decentralized ledger. Ethereum is extremely secure and highly reliable, but it isn't always well suited for speed and efficiency."
           },
           "collect_nfts": {
             "title": "Collect NFTs on OpenSea",
@@ -363,7 +363,7 @@
       },
       "ledger": {
         "title": "Pair a Hardware Wallet",
-        "body": "Connect your Ledger Nano X to Rainbow through Bluetooth."
+        "body": "Connect your Ledger Nano X to Bitfinity through Bluetooth."
       },
       "receive": {
         "receive_assets": "Receive assets",
@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "Oops!",
-      "restart_rainbow": "Restart Rainbow",
+      "restart_bitfinity": "Restart Bitfinity",
       "something_went_wrong": "Something went wrong.",
       "wallets_are_safe": "Don't worry, your wallets are safe! Just restart the app to get back to business."
     },
@@ -507,7 +507,7 @@
         "label": "Possible loss"
       },
       "source": {
-        "rainbow": "Auto",
+        "bitfinity": "Auto",
         "0x": "0x",
         "1inch": "1inch"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "Reward",
         "exchange_rate": "Exchange rate",
-        "rainbow_fee": "Included Rainbow fee",
+        "bitfinity_fee": "Included Bitfinity fee",
         "refuel": "Extra network tokens",
         "review": "Review",
         "show_details": "More details",
@@ -701,36 +701,36 @@
     },
     "app_icon_unlock_sheet": {
       "smol_description": "You found Treasure! Because you hold a Smolverse NFT, you've unlocked a Custom Icon!",
-      "smol_title": "You've unlocked\nRainbow 􀆄 SMOL",
-      "optimism_description": "To celebrate NFTs on Optimism, Rainbow and Optimism teamed up to drop a limited edition App Icon for the Optimistic Explorers like you!",
-      "optimism_title": "You've unlocked\nRainbow 􀆄 Optimism",
-      "zora_description": "A special edition Rainbow Zorb icon that's made for magical pondering.",
-      "zora_title": "You've unlocked\nRainbow 􀆄 Zora",
-      "finiliar_description": "A special edition Rainbow Fini icon that keeps you up to date on the price of gas, rain or shine.",
-      "finiliar_title": "You've unlocked a\nRainbow Fini",
-      "golddoge_description": "A limited edition golden Rainbow app icon in celebration of Kabosu's 17th birthday.",
-      "golddoge_title": "You've unlocked\nRainbow 􀆄 DOGE",
-      "raindoge_description": "A limited edition Rainbow app icon in celebration of Kabosu's 17th birthday.",
-      "raindoge_title": "You've unlocked\nRainbow 􀆄 The Doge NFT",
-      "pooly_description": "A special edition Rainbow Pooly icon for supporters of freedom.",
-      "pooly_title": "You've unlocked a\nRainbow Pooly",
-      "zorb_description": "A special edition Rainbow Zorb:\n100% of what you love, faster and more efficient.",
-      "zorb_title": "You've unlocked\nRainbow Zorb Energy!",
-      "poolboy_description": "A special edition Rainbow x Poolsuite Icon for onchain summer.",
-      "poolboy_title": "You've unlocked the\nRainbow Poolboy!",
-      "adworld_description": "As a Rainbow World Citizen, you can now unlock a special edition\nAdWorld x Rainbow App Icon.",
-      "adworld_title": "Welcome to Rainbow World!",
+      "smol_title": "You've unlocked\nBitfinity 􀆄 SMOL",
+      "optimism_description": "To celebrate NFTs on Optimism, Bitfinity and Optimism teamed up to drop a limited edition App Icon for the Optimistic Explorers like you!",
+      "optimism_title": "You've unlocked\nBitfinity 􀆄 Optimism",
+      "zora_description": "A special edition Bitfinity Zorb icon that's made for magical pondering.",
+      "zora_title": "You've unlocked\nBitfinity 􀆄 Zora",
+      "finiliar_description": "A special edition Bitfinity Fini icon that keeps you up to date on the price of gas, rain or shine.",
+      "finiliar_title": "You've unlocked a\nBitfinity Fini",
+      "golddoge_description": "A limited edition golden Bitfinity app icon in celebration of Kabosu's 17th birthday.",
+      "golddoge_title": "You've unlocked\nBitfinity 􀆄 DOGE",
+      "raindoge_description": "A limited edition Bitfinity app icon in celebration of Kabosu's 17th birthday.",
+      "raindoge_title": "You've unlocked\nBitfinity 􀆄 The Doge NFT",
+      "pooly_description": "A special edition Bitfinity Pooly icon for supporters of freedom.",
+      "pooly_title": "You've unlocked a\nBitfinity Pooly",
+      "zorb_description": "A special edition Bitfinity Zorb:\n100% of what you love, faster and more efficient.",
+      "zorb_title": "You've unlocked\nBitfinity Zorb Energy!",
+      "poolboy_description": "A special edition Bitfinity x Poolsuite Icon for onchain summer.",
+      "poolboy_title": "You've unlocked the\nBitfinity Poolboy!",
+      "adworld_description": "As a Bitfinity World Citizen, you can now unlock a special edition\nAdWorld x Bitfinity App Icon.",
+      "adworld_title": "Welcome to Bitfinity World!",
       "farcaster_description": "Our most boring app icon ever, inspired by Warpcast's bland minimalism.",
-      "farcaster_title": "You've unlocked\nRainbowcast",
+      "farcaster_title": "You've unlocked\nBitfinitycast",
       "button": "Snag the icon"
     },
     "explain": {
       "output_disabled": {
-        "text": "For %{fromNetwork}, Rainbow can't prepare swaps based on the amount of %{outputToken} you'd like to receive. \n\n Try entering the amount of %{inputToken} you’d like to swap instead.",
+        "text": "For %{fromNetwork}, Bitfinity can't prepare swaps based on the amount of %{outputToken} you'd like to receive. \n\n Try entering the amount of %{inputToken} you’d like to swap instead.",
         "title": "Enter %{inputToken} Instead",
         "title_crosschain": "Enter %{fromNetwork} %{inputToken} Instead",
-        "text_crosschain": "Rainbow can't prepare swaps based on the amount of %{outputToken} you'd like to receive. \n\n Try entering the amount of %{inputToken} you’d like to swap instead.",
-        "text_bridge": "Rainbow can't prepare a bridge based on the amount of %{outputToken} you'd like to receive at the %{toNetwork} destination. \n\n Try entering the amount of %{fromNetwork} %{inputToken} you’d like to bridge instead.",
+        "text_crosschain": "Bitfinity can't prepare swaps based on the amount of %{outputToken} you'd like to receive. \n\n Try entering the amount of %{inputToken} you’d like to swap instead.",
+        "text_bridge": "Bitfinity can't prepare a bridge based on the amount of %{outputToken} you'd like to receive at the %{toNetwork} destination. \n\n Try entering the amount of %{fromNetwork} %{inputToken} you’d like to bridge instead.",
         "title_empty": "Choose a Token"
       },
       "available_networks": {
@@ -758,15 +758,15 @@
         "title": "Connection failed"
       },
       "failed_wc_invalid_methods": {
-        "text": "The dapp requested wallet signing (RPC) methods that are unsupported by Rainbow.",
+        "text": "The dapp requested wallet signing (RPC) methods that are unsupported by Bitfinity.",
         "title": "Connection failed"
       },
       "failed_wc_invalid_chains": {
-        "text": "The dapp requested network(s) that are unsupported by Rainbow.",
+        "text": "The dapp requested network(s) that are unsupported by Bitfinity.",
         "title": "Connection failed"
       },
       "failed_wc_invalid_chain": {
-        "text": "The network specified in this request is not supported by Rainbow.",
+        "text": "The network specified in this request is not supported by Bitfinity.",
         "title": "Handling failed"
       },
       "floor_price": {
@@ -824,7 +824,7 @@
         "title": "Verified Tokens"
       },
       "unverified": {
-        "fragment1": "Rainbow surfaces as many tokens as possible, but anyone can create a token, or claim to represent a project with a fake contract. \n\n Please review the ",
+        "fragment1": "Bitfinity surfaces as many tokens as possible, but anyone can create a token, or claim to represent a project with a fake contract. \n\n Please review the ",
         "fragment2": "token contract",
         "fragment3": " and always do research to ensure that you interact with tokens you trust.",
         "title": "%{symbol} is Unverified",
@@ -843,7 +843,7 @@
         "title": "Insufficient Liquidity"
       },
       "fee_on_transfer": {
-        "fragment1": "This swap will fail in Rainbow because the %{tokenName} contract adds extra fees.  \n\n Read ",
+        "fragment1": "This swap will fail in Bitfinity because the %{tokenName} contract adds extra fees.  \n\n Read ",
         "fragment2": "our guide",
         "fragment3": " for help swapping this token!",
         "title": "Fee on Transfer Token"
@@ -864,11 +864,11 @@
       "go_to_hop_with_icon": {
         "text": "Go to the Hop Bridge 􀮶"
       },
-      "rainbow_fee": {
-        "text": "Rainbow takes a %{feePercentage} fee from swaps. It’s part of what enables us to give you the best Ethereum experience possible."
+      "bitfinity_fee": {
+        "text": "Bitfinity takes a %{feePercentage} fee from swaps. It’s part of what enables us to give you the best Ethereum experience possible."
       },
       "swap_routing": {
-        "text": "By default, Rainbow chooses the cheapest route possible for your swap. If you prefer to specifically use either 0x or 1inch, you can do that too.",
+        "text": "By default, Bitfinity chooses the cheapest route possible for your swap. If you prefer to specifically use either 0x or 1inch, you can do that too.",
         "title": "Swap Routing",
         "still_curious": {
           "fragment1": "Still curious? ",
@@ -914,7 +914,7 @@
       "cannot_verify_bundle": "Cannot verify the bundle! This might be a scam. Installation blocked.",
       "error": "ERROR",
       "fedora": "Fedora",
-      "this_will_override_bundle": "This will override your bundle. Be careful. Are you a Rainbow employee?",
+      "this_will_override_bundle": "This will override your bundle. Be careful. Are you a Bitfinity employee?",
       "wait": "wait"
     },
     "fields": {
@@ -959,7 +959,7 @@
       "edit_miner_tip": "Edit Miner Tip"
     },
     "homepage": {
-      "back": "Back to rainbow.me",
+      "back": "Back to bitfinity.me",
       "coming_soon": "Coming soon.",
       "connect_ledger": {
         "button": "Connect to Ledger",
@@ -1015,8 +1015,8 @@
     "image_picker": {
       "cancel": "Cancel",
       "confirm": "Enable library access",
-      "message": "This allows Rainbow to use your photos from your library",
-      "title": "Rainbow would like to access your photos"
+      "message": "This allows Bitfinity to use your photos from your library",
+      "title": "Bitfinity would like to access your photos"
     },
     "input": {
       "asset_amount": "Amount",
@@ -1032,8 +1032,8 @@
     },
     "list": {
       "share": {
-        "check_out_my_wallet": "Check out my collectibles on 🌈 Rainbow at %{showcaseUrl}",
-        "check_out_this_wallet": "Check out this wallet's collectibles on 🌈 Rainbow at %{showcaseUrl}"
+        "check_out_my_wallet": "Check out my collectibles on 🌈 Bitfinity at %{showcaseUrl}",
+        "check_out_this_wallet": "Check out this wallet's collectibles on 🌈 Bitfinity at %{showcaseUrl}"
       }
     },
     "message": {
@@ -1133,7 +1133,7 @@
       "external_link_warning": {
         "go_back": "Go back",
         "visit_external_link": "Visit external link?",
-        "you_are_attempting_to_visit": "You are attempting to visit a link that is not affiliated with Rainbow."
+        "you_are_attempting_to_visit": "You are attempting to visit a link that is not affiliated with Bitfinity."
       },
       "gas_average": "Average",
       "gas_fast": "Fast",
@@ -1225,7 +1225,7 @@
         "hold_to_sell": "Hold to Sell",
         "error": {
           "title": "Error selling NFT",
-          "message": "Please contact Rainbow support for assistance."
+          "message": "Please contact Bitfinity support for assistance."
         }
       }
     },
@@ -1293,14 +1293,14 @@
         "error": "Oops!\nPlease pull to refresh.",
         "points": "points",
         "referral_code_copied": "Referral code copied",
-        "earn_points_for_referring": "Earn points when your referrals swap $100 through Rainbow, plus earn 10% of the points your referrals earn",
+        "earn_points_for_referring": "Earn points when your referrals swap $100 through Bitfinity, plus earn 10% of the points your referrals earn",
         "already_claimed_points": "Sorry! You have already claimed your points.",
         "now": "Now",
         "unranked": "Unranked",
         "points_to_rank": "750 points to rank"
       },
       "console": {
-        "claim_bonus_paragraph": "You'll receive an additional 100 points once you swap at least $100 through Rainbow",
+        "claim_bonus_paragraph": "You'll receive an additional 100 points once you swap at least $100 through Bitfinity",
         "welcome_bonus": "Welcome Bonus",
         "true_believer": "True Believer",
         "registration_complete": "Registration complete",
@@ -1309,12 +1309,12 @@
         "points_earned": "Points Earned",
         "share_bonus_paragraph_one": "You're all set!",
         "share_bonus_paragraph_two": "Keep earning points by swapping, bridging, minting, referring friends, and more",
-        "share_bonus_paragraph_three": "The more you use Rainbow, the more you'll be rewarded",
+        "share_bonus_paragraph_three": "The more you use Bitfinity, the more you'll be rewarded",
         "calculation_complete": "Calculation complete",
         "metamask_swaps": "MetaMask Swaps",
         "wallet_balance": "Wallet Balance",
-        "rainbow_nfts_owned": "Rainbow NFTs Owned",
-        "rainbow_swaps": "Rainbow Swaps",
+        "bitfinity_nfts_owned": "Bitfinity NFTs Owned",
+        "bitfinity_swaps": "Bitfinity Swaps",
         "calculating_points": "Calculating points",
         "access_granted": "Access granted",
         "sign_in_with_wallet": "Sign in with your wallet",
@@ -1535,7 +1535,7 @@
         "secondary_button": "Maybe later",
         "info_row_1": {
           "title": "Swap all your favorite tokens",
-          "description": "Rainbow searches everywhere to find the best rate for your trade."
+          "description": "Bitfinity searches everywhere to find the best rate for your trade."
         },
         "info_row_2": {
           "title": "Swap directly on L2",
@@ -1545,7 +1545,7 @@
           "title": "Flashbots protection",
           "description": "Price protection, plus no fees on failed swaps. Enable in swap settings."
         },
-        "header": "Swaps on Rainbow",
+        "header": "Swaps on Bitfinity",
         "subheader": "REINTRODUCING"
       },
       "notifications_launch": {
@@ -1581,7 +1581,7 @@
         "description": "View your offers across all NFT marketplaces."
       },
       "info_row_2": {
-        "title": "Accept from Rainbow",
+        "title": "Accept from Bitfinity",
         "description": "Accept offers in a single tap and swap to the token of your choosing."
       },
       "info_row_3": {
@@ -1593,7 +1593,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "Are you enjoying Rainbow? 🥰",
+        "are_you_enjoying_bitfinity": "Are you enjoying Bitfinity? 🥰",
         "leave_a_review": "Leave a review on the App Store!",
         "no": "No",
         "yes": "Yes"
@@ -1634,7 +1634,7 @@
       "rewards_claimed": "Weekly Rewards Claimed",
       "refreshes_next_week": "Refreshes next week",
       "all_rewards_claimed": "All rewards have been claimed this week",
-      "rainbow_users_claimed": "Rainbow users claimed %{amount}",
+      "bitfinity_users_claimed": "Bitfinity users claimed %{amount}",
       "refreshes_in_with_days": "Refreshes in %{days} days %{hours} hours",
       "refreshes_in_without_days": "Refreshes in %{hours} hours",
       "percent": "%{percent}% reward",
@@ -1724,7 +1724,7 @@
       "feedback_and_reports": "Feedback & Bug Reports",
       "feedback_and_support": "Feedback and Support",
       "follow_us_on_twitter": "Follow us on Twitter",
-      "hey_friend_message": "👋️ Hey friend! You should download Rainbow, it's my favorite Ethereum wallet 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
+      "hey_friend_message": "👋️ Hey friend! You should download Bitfinity, it's my favorite Ethereum wallet 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
       "label": "Settings",
       "language": "Language",
       "learn": "Learn about Ethereum",
@@ -1746,13 +1746,13 @@
         "all": "All",
         "off": "Off",
         "plus_n_more": "+ %{n} more",
-        "no_permissions": "Looks like your notification permissions are disabled. Please enable them in Settings to receive notifications from Rainbow.",
+        "no_permissions": "Looks like your notification permissions are disabled. Please enable them in Settings to receive notifications from Bitfinity.",
         "no_watched_wallets": "You are not watching any wallets.",
-        "no_owned_wallets": "You do not have any wallets in Rainbow. Create a wallet or import one with your secret phrase.",
+        "no_owned_wallets": "You do not have any wallets in Bitfinity. Create a wallet or import one with your secret phrase.",
         "open_system_settings": "Open Settings",
         "unsupported_network": "Notifications are only available for Ethereum Mainnet transactions at this time.",
         "change_network": "Change your Network",
-        "no_first_time_permissions": "Please allow Rainbow to send you notifications.",
+        "no_first_time_permissions": "Please allow Bitfinity to send you notifications.",
         "first_time_allow_notifications": "Allow Notifications",
         "error_alert_title": "Subscription Failed",
         "error_alert_content": "Please try again later.",
@@ -1763,15 +1763,15 @@
       "privacy": "Privacy",
       "privacy_section": {
         "public_showcase": "Public Showcase",
-        "when_public": "When public, your NFT Showcase will be visible on your Rainbow profile!",
-        "when_public_prefix": "When public, your NFT Showcase will be visible on your Rainbow web profile! You can view your profile at",
+        "when_public": "When public, your NFT Showcase will be visible on your Bitfinity profile!",
+        "when_public_prefix": "When public, your NFT Showcase will be visible on your Bitfinity web profile! You can view your profile at",
         "view_profile": "View your profile",
         "analytics_toggle": "Analytics",
-        "analytics_toggle_description": "Help Rainbow improve its products and services by allowing analytics of usage data. Collected data is not associated with you or your account."
+        "analytics_toggle_description": "Help Bitfinity improve its products and services by allowing analytics of usage data. Collected data is not associated with you or your account."
       },
       "restore": "Restore to original deployment",
-      "review": "Review Rainbow",
-      "share_rainbow": "Share Rainbow",
+      "review": "Review Bitfinity",
+      "share_bitfinity": "Share Bitfinity",
       "theme": "Theme",
       "theme_section": {
         "system": "System",
@@ -1780,7 +1780,7 @@
       },
       "icon_change": {
         "title": "Confirm icon change",
-        "warning": "Changing your icon may cause Rainbow to restart.",
+        "warning": "Changing your icon may cause Bitfinity to restart.",
         "confirm": "Confirm",
         "cancel": "Cancel"
       }
@@ -2075,7 +2075,7 @@
     },
     "hardware_wallets": {
       "pair_your_nano": "Pair your Nano X",
-      "connect_your_ledger": "Connect your Ledger Nano X to Rainbow through Bluetooth. If this is your first time, Rainbow will ask for Bluetooth access.",
+      "connect_your_ledger": "Connect your Ledger Nano X to Bitfinity through Bluetooth. If this is your first time, Bitfinity will ask for Bluetooth access.",
       "learn_more_about_ledger": "Learn more about Ledger",
       "pair_a_new_ledger": "Pair a new Ledger",
       "looking_for_devices": "Looking for devices",
@@ -2273,14 +2273,14 @@
         "you_need_to_authenticate_with_your_pin": "You need to authenticate with your PIN in order to access your Wallet secrets",
         "share_application_state": "Share application state dump",
         "wallet_details_title": "Wallet details",
-        "wallet_details_description": "Below are the details of all wallets added to Rainbow."
+        "wallet_details_description": "Below are the details of all wallets added to Bitfinity."
       },
       "error_displaying_address": "Error displaying address",
       "feedback": {
         "cancel": "No thanks",
         "choice": "Would you like to manually copy our feedback email address to your clipboard?",
         "copy_email_address": "Copy email address",
-        "email_subject": "📱 Rainbow Beta Feedback",
+        "email_subject": "📱 Bitfinity Beta Feedback",
         "error": "Error launching email client",
         "send": "Send Feedback"
       },
@@ -2289,7 +2289,7 @@
         "create_wallet": "Create a Wallet",
         "instructions": "Please do not store more in your wallet than you are willing to lose.",
         "warning": "This is alpha software.",
-        "welcome": "Welcome to Rainbow"
+        "welcome": "Welcome to Bitfinity"
       },
       "invalid_ens_name": "This is not a valid ENS name",
       "invalid_unstoppable_name": "This is not a valid Unstoppable name",
@@ -2326,7 +2326,7 @@
               "title": "Connect your hardware wallet"
             },
             "seed": {
-              "description": "Use your recovery phrase from Rainbow or another crypto wallet",
+              "description": "Use your recovery phrase from Bitfinity or another crypto wallet",
               "title": "Restore with a recovery phrase or private key"
             },
             "watch": {
@@ -2348,7 +2348,7 @@
           "continue": "Continue",
           "import": {
             "title": "Restore a wallet",
-            "description": "Restore with a recovery phrase or private key from Rainbow or another crypto wallet",
+            "description": "Restore with a recovery phrase or private key from Bitfinity or another crypto wallet",
             "placeholder": "Enter a recovery phrase or private key",
             "button": "Import"
           },
@@ -2372,7 +2372,7 @@
         "get_new_wallet": "Get a new wallet",
         "import_wallet": "Import Wallet",
         "name_wallet": "Name your wallet",
-        "terms": "By proceeding, you agree to Rainbow’s ",
+        "terms": "By proceeding, you agree to Bitfinity’s ",
         "terms_link": "Terms of Use"
       },
       "pin_authentication": {
@@ -2386,7 +2386,7 @@
       },
       "push_notifications": {
         "please_enable_body": "It looks like you are using WalletConnect. Please enable push notifications to be notified of transaction requests from WalletConnect.",
-        "please_enable_title": "Rainbow would like to send you push notifications"
+        "please_enable_title": "Bitfinity would like to send you push notifications"
       },
       "qr": {
         "camera_access_needed": "Enabling this allows you to scan QR codes so you can connect to dApps and discover wallets.",
@@ -2471,7 +2471,7 @@
         "no_thanks": "No thanks",
         "message": "Would you like to manually copy our support email address to your clipboard?",
         "title": "Error launching email client",
-        "subject": "Rainbow Support"
+        "subject": "Bitfinity Support"
       },
       "wallet_alert": {
         "message_support": "Message Support",
@@ -2537,14 +2537,14 @@
         "generic_title": "Connection failed",
         "generic_error": "Something went wrong. Please try again, or reach out to our support team.",
         "pairing_timeout": "This session timed-out before a connection could be established. This is usually due to a network error. Please try again.",
-        "pairing_unsupported_methods": "The dapp requested wallet RPC methods that are unsupported by Rainbow.",
-        "pairing_unsupported_networks": "The dapp requested network(s) that are unsupported by Rainbow.",
+        "pairing_unsupported_methods": "The dapp requested wallet RPC methods that are unsupported by Bitfinity.",
+        "pairing_unsupported_networks": "The dapp requested network(s) that are unsupported by Bitfinity.",
         "read_only_wallet_on_signing_method": "It looks like you're using a read-only wallet, which is not allowed for this request.",
-        "namespaces_invalid": "There was an issue with the namespaces requested by the dapp. Please try again or contact Rainbow and/or dapp support teams.",
-        "request_invalid": "The request contained invalid parameters. Please try again or contact Rainbow and/or dapp support teams.",
-        "eth_sign": "Rainbow does not support legacy eth_sign due to security concerns.  \n Please contact Rainbow and/or dapp support teams if you have any questions.",
-        "request_unsupported_network": "The network specified in this request is not supported by Rainbow.",
-        "request_unsupported_methods": "The RPC method(s) specified in this request are not supported by Rainbow.",
+        "namespaces_invalid": "There was an issue with the namespaces requested by the dapp. Please try again or contact Bitfinity and/or dapp support teams.",
+        "request_invalid": "The request contained invalid parameters. Please try again or contact Bitfinity and/or dapp support teams.",
+        "eth_sign": "Bitfinity does not support legacy eth_sign due to security concerns.  \n Please contact Bitfinity and/or dapp support teams if you have any questions.",
+        "request_unsupported_network": "The network specified in this request is not supported by Bitfinity.",
+        "request_unsupported_methods": "The RPC method(s) specified in this request are not supported by Bitfinity.",
         "no_accounts_found": "No accounts found in approved namespaces."
       },
       "dapp_warnings": {

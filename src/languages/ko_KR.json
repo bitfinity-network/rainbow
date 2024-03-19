@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "이런!",
-      "restart_rainbow": "Rainbow 다시 시작",
+      "restart_bitfinity": "Bitfinity 다시 시작",
       "something_went_wrong": "문제가 발생했습니다.",
       "wallets_are_safe": "걱정하지 마세요, 여러분의 지갑은 안전합니다! 앱을 다시 시작하면 업무를 다시 시작할 수 있습니다."
     },
@@ -507,7 +507,7 @@
         "label": "가능한 손실"
       },
       "source": {
-        "rainbow": "자동",
+        "bitfinity": "자동",
         "0x": "0x",
         "1inch": "1inch"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "보상",
         "exchange_rate": "환율",
-        "rainbow_fee": "포함된 Rainbow 수수료",
+        "bitfinity_fee": "포함된 Bitfinity 수수료",
         "refuel": "추가 네트워크 토큰",
         "review": "리뷰",
         "show_details": "자세한 정보",
@@ -699,18 +699,18 @@
       "icon_unlock": {
         "smol_text": "보물을 찾았습니다! 당신은 Smolverse NFT를 보유하고 있기 때문에 사용자 정의 아이콘을 해제했습니다!",
         "optimism_text": "Optimism에서 NFT를 축하하기 위해 Rainbow와 Optimism은 당신처럼 낙관적으로 탐험할 수 있는 제한된 판매량의 앱 아이콘을 떨어뜨렸습니다!",
-        "zora_text": "매법적인 묵상을 위해 만들어진 특별한 에디션 Rainbow Zorb 아이콘.",
-        "finiliar_text": "가스 가격에 관계없이 당신을 최신 상태로 유지하는 특별한 에디션 Rainbow Fini 아이콘.",
+        "zora_text": "매법적인 묵상을 위해 만들어진 특별한 에디션 Bitfinity Zorb 아이콘.",
+        "finiliar_text": "가스 가격에 관계없이 당신을 최신 상태로 유지하는 특별한 에디션 Bitfinity Fini 아이콘.",
         "finiliar_title": "당신은\n무지개 Fini를 해제했습니다",
-        "golddoge_text": "Kabosu의 17번째 생일을 축하하는 한정판 금색 Rainbow 앱 아이콘.",
-        "raindoge_text": "Kabosu의 17번째 생일을 축하하는 한정판 Rainbow 앱 아이콘.",
+        "golddoge_text": "Kabosu의 17번째 생일을 축하하는 한정판 금색 Bitfinity 앱 아이콘.",
+        "raindoge_text": "Kabosu의 17번째 생일을 축하하는 한정판 Bitfinity 앱 아이콘.",
         "pooly_text": "자유 지지자들을 위한 특별판 레인보우 Pooly 아이콘.",
         "pooly_title": "\n레인보우 Pooly를 해제하였습니다",
         "zorb_text": "사랑하는 모든 것의 100%를 더 빠르고 효율적으로 가진 특별판 레인보우 Zorb:\n",
         "zorb_title": "\n레인보우 Zorb 에너지를 해제했습니다!",
         "poolboy_text": "온체인 서머를 위한 특별판 레인보우 x Poolsuite 아이콘.",
         "poolboy_title": "\n무지개 수영장 소년을 해제하셨습니다!",
-        "adworld_text": "레인보우 월드 시민으로서, 이제 특별 에디션\nAdWorld x Rainbow 앱 아이콘을 잠금 해제할 수 있습니다.",
+        "adworld_text": "레인보우 월드 시민으로서, 이제 특별 에디션\nAdWorld x Bitfinity 앱 아이콘을 잠금 해제할 수 있습니다.",
         "adworld_title": "레인보우 월드에 오신 것을 환영합니다!",
         "title": "\n무지개 􀆄 %{partner}을 해제하셨습니다!",
         "button": "아이콘 획득하기"
@@ -846,7 +846,7 @@
       "go_to_hop_with_icon": {
         "text": "홉 브릿지로 이동 􀮶"
       },
-      "rainbow_fee": {
+      "bitfinity_fee": {
         "text": "레인보우는 스왑에서 %{feePercentage} 수수료를 가져갑니다. 이것이 우리가 가능한 최고의 이더리움 경험을 제공할 수 있게 하는 부분입니다."
       },
       "swap_routing": {
@@ -941,7 +941,7 @@
       "edit_miner_tip": "마이너 팁 편집"
     },
     "homepage": {
-      "back": "rainbow.me로 돌아가기",
+      "back": "bitfinity.me로 돌아가기",
       "coming_soon": "곧 출시됩니다.",
       "connect_ledger": {
         "button": "레저 연결",
@@ -1216,7 +1216,7 @@
         "hold_to_sell": "판매하기 위해 보류",
         "error": {
           "title": "NFT 판매 중 오류",
-          "message": "도움이 필요하면 Rainbow 지원팀에 문의하십시오."
+          "message": "도움이 필요하면 Bitfinity 지원팀에 문의하십시오."
         }
       }
     },
@@ -1304,8 +1304,8 @@
         "calculation_complete": "계산 완료",
         "metamask_swaps": "메타마스크 스왑",
         "wallet_balance": "지갑 잔액",
-        "rainbow_nfts_owned": "소유한 레인보우 NFTs",
-        "rainbow_swaps": "레인보우 스왑",
+        "bitfinity_nfts_owned": "소유한 레인보우 NFTs",
+        "bitfinity_swaps": "레인보우 스왑",
         "calculating_points": "포인트 계산 중",
         "access_granted": "접근 승인됨",
         "sign_in_with_wallet": "지갑으로 로그인",
@@ -1584,7 +1584,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "Rainbow이 마음에 드시나요? 🥰",
+        "are_you_enjoying_bitfinity": "Rainbow이 마음에 드시나요? 🥰",
         "leave_a_review": "App Store에서 리뷰를 남겨주세요!",
         "no": "아니요",
         "yes": "예"
@@ -1625,7 +1625,7 @@
       "rewards_claimed": "주간 보상 청구됨",
       "refreshes_next_week": "다음 주에 새로 고침",
       "all_rewards_claimed": "이번 주에는 모든 보상이 청구되었습니다",
-      "rainbow_users_claimed": "Rainbow 사용자가 %{amount}을 청구하였습니다",
+      "bitfinity_users_claimed": "Bitfinity 사용자가 %{amount}을 청구하였습니다",
       "refreshes_in_with_days": "%{days} 일 %{hours} 시간 후에 새로 고침",
       "refreshes_in_without_days": "%{hours} 시간 후에 새로 고침",
       "percent": "%{percent}% 보상",
@@ -1754,15 +1754,15 @@
       "privacy": "개인정보 보호",
       "privacy_section": {
         "public_showcase": "공개 쇼케이스",
-        "when_public": "공개되면, 당신의 NFT 쇼케이스는 당신의 Rainbow 프로필에서 보이게 됩니다!",
-        "when_public_prefix": "공개되면, 당신의 NFT 쇼케이스는 당신의 Rainbow 웹 프로필에서 보이게 됩니다! 당신의 프로필은 여기에서 확인할 수 있습니다.",
+        "when_public": "공개되면, 당신의 NFT 쇼케이스는 당신의 Bitfinity 프로필에서 보이게 됩니다!",
+        "when_public_prefix": "공개되면, 당신의 NFT 쇼케이스는 당신의 Bitfinity 웹 프로필에서 보이게 됩니다! 당신의 프로필은 여기에서 확인할 수 있습니다.",
         "view_profile": "당신의 프로필 보기",
         "analytics_toggle": "분석",
         "analytics_toggle_description": "Rainbow의 제품 및 서비스 개선을 위해 사용 데이터 분석을 허용해 주세요. 수집된 데이터는 귀하 또는 귀하의 계정과 연결되지 않습니다."
       },
       "restore": "원래 배포로 복원",
-      "review": "Rainbow 리뷰하기",
-      "share_rainbow": "Rainbow 공유하기",
+      "review": "Bitfinity 리뷰하기",
+      "share_bitfinity": "Bitfinity 공유하기",
       "theme": "테마",
       "theme_section": {
         "system": "시스템",
@@ -2213,7 +2213,7 @@
               "title": "하드웨어 지갑 연결"
             },
             "seed": {
-              "description": "Rainbow 또는 다른 암호화 지갑의 복구 구문 사용",
+              "description": "Bitfinity 또는 다른 암호화 지갑의 복구 구문 사용",
               "title": "복구 구문이나 개인 키로 복구"
             },
             "watch": {
@@ -2235,7 +2235,7 @@
           "continue": "계속",
           "import": {
             "title": "지갑 복구",
-            "description": "Rainbow 또는 다른 암호화 지갑에서 복구 구문이나 개인 키를 사용하여 복원합니다",
+            "description": "Bitfinity 또는 다른 암호화 지갑에서 복구 구문이나 개인 키를 사용하여 복원합니다",
             "placeholder": "복구 구문 또는 개인 키를 입력하십시오",
             "button": "가져오기"
           },
@@ -2426,9 +2426,9 @@
         "pairing_unsupported_methods": "Dapp이 Rainbow에서 지원하지 않는 지갑 RPC 방법을 요청했습니다.",
         "pairing_unsupported_networks": "해당 dapp은 Rainbow에서 지원하지 않는 네트워크를 요청했습니다.",
         "read_only_wallet_on_signing_method": "읽기 전용 지갑을 사용중인 것 같습니다. 이 요청에 대해서는 허용되지 않습니다.",
-        "namespaces_invalid": "DApp에서 요청한 네임스페이스에 문제가 있습니다. 다시 시도하거나 Rainbow 및 DApp 지원 팀에 문의하십시오.",
-        "request_invalid": "요청에 잘못된 매개변수가 포함되어 있습니다. 다시 시도하거나 Rainbow 및/또는 dapp 지원 팀에 문의하십시오.",
-        "eth_sign": "보안 문제로 인해 Rainbow는 이전 버전의 eth_sign을 지원하지 않습니다.  \n 궁금한 점이 있으면 Rainbow 및/또는 dapp 지원 팀에 문의하십시오.",
+        "namespaces_invalid": "DApp에서 요청한 네임스페이스에 문제가 있습니다. 다시 시도하거나 Bitfinity 및 DApp 지원 팀에 문의하십시오.",
+        "request_invalid": "요청에 잘못된 매개변수가 포함되어 있습니다. 다시 시도하거나 Bitfinity 및/또는 dapp 지원 팀에 문의하십시오.",
+        "eth_sign": "보안 문제로 인해 Rainbow는 이전 버전의 eth_sign을 지원하지 않습니다.  \n 궁금한 점이 있으면 Bitfinity 및/또는 dapp 지원 팀에 문의하십시오.",
         "request_unsupported_network": "이 요청에서 지정한 네트워크는 Rainbow에서 지원하지 않습니다.",
         "request_unsupported_methods": "이 요청에 명시된 RPC 방법은 Rainbow에서 지원하지 않습니다.",
         "no_accounts_found": "승인된 네임스페이스에서 계정을 찾을 수 없습니다."

@@ -71,7 +71,7 @@ export const handleReviewPromptAction = async (action: ReviewPromptAction) => {
 };
 
 export const promptForReview = async () => {
-  Alert.alert(lang.t('review.alert.are_you_enjoying_rainbow'), lang.t('review.alert.leave_a_review'), [
+  Alert.alert(lang.t('review.alert.are_you_enjoying_bitfinity'), lang.t('review.alert.leave_a_review'), [
     {
       onPress: () => {
         ls.review.set(['hasReviewed'], true);

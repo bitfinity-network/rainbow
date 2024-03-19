@@ -311,8 +311,8 @@
         "learn": "Öğren",
         "cards": {
           "get_started": {
-            "title": "Rainbow ile Başlamak",
-            "description": "Rainbow'a hoş geldiniz! Burada olduğunuz için çok mutluyuz. Rainbow'un temelleri ve yeni Web3 ve Ethereum yolculuğunuzda size yardımcı olmak için bu rehberi oluşturduk."
+            "title": "Bitfinity ile Başlamak",
+            "description": "Bitfinity'a hoş geldiniz! Burada olduğunuz için çok mutluyuz. Bitfinity'un temelleri ve yeni Web3 ve Ethereum yolculuğunuzda size yardımcı olmak için bu rehberi oluşturduk."
           },
           "backups": {
             "title": "Yedeklemelerin Önemi",
@@ -320,11 +320,11 @@
           },
           "crypto_and_wallets": {
             "title": "Kripto ve Cüzdanlar",
-            "description": "Gerçekten basit bir düzeyde, bir cüzdan sadece kişisel ve benzersiz bir kriptografik anahtardır (aşağıda gösterildiği gibi). Rainbow gibi cüzdan uygulamaları, teknik becerilere veya bilgiye sahip olmanız gerekmeden kriptografik anahtarları oluşturmanıza, saklamanıza ve yönetmenize izin veren kullanıcı arayüzleridir."
+            "description": "Gerçekten basit bir düzeyde, bir cüzdan sadece kişisel ve benzersiz bir kriptografik anahtardır (aşağıda gösterildiği gibi). Bitfinity gibi cüzdan uygulamaları, teknik becerilere veya bilgiye sahip olmanız gerekmeden kriptografik anahtarları oluşturmanıza, saklamanıza ve yönetmenize izin veren kullanıcı arayüzleridir."
           },
           "protect_wallet": {
             "title": "Cüzdanınızı Koruyun",
-            "description": "Rainbow gibi bir Ethereum cüzdanına sahip olmanın en iyi kısımlarından biri, paranızın tam kontrolüne sahip olmanızdır. Wells Fargo'dan bir banka hesabı veya Coinbase gibi bir kripto borsası aksine, varlıklarınızı sizin adınıza tutmuyoruz."
+            "description": "Bitfinity gibi bir Ethereum cüzdanına sahip olmanın en iyi kısımlarından biri, paranızın tam kontrolüne sahip olmanızdır. Wells Fargo'dan bir banka hesabı veya Coinbase gibi bir kripto borsası aksine, varlıklarınızı sizin adınıza tutmuyoruz."
           },
           "connect_to_dapp": {
             "title": "Bir Web Sitesine veya Uygulamaya Bağlan",
@@ -332,7 +332,7 @@
           },
           "avoid_scams": {
             "title": "Kripto Dolandırıcılıklarından Kaçının",
-            "description": "Rainbow'da hedeflerimizden biri, Ethereum'un yeni dünyasını keşfetmeyi eğlenceli, dostça ve güvenli hale getirmektir. Hiçbiri bunlar değil mi bilir misiniz? Dolandırıcılıklar. Onlar kaba ve kimse onları sevmez. Onlardan kaçınmanıza yardımcı olmak istiyoruz, bu yüzden bunu tam olarak yapmanıza yardımcı olacak bu kısa rehberi yazdık!"
+            "description": "Bitfinity'da hedeflerimizden biri, Ethereum'un yeni dünyasını keşfetmeyi eğlenceli, dostça ve güvenli hale getirmektir. Hiçbiri bunlar değil mi bilir misiniz? Dolandırıcılıklar. Onlar kaba ve kimse onları sevmez. Onlardan kaçınmanıza yardımcı olmak istiyoruz, bu yüzden bunu tam olarak yapmanıza yardımcı olacak bu kısa rehberi yazdık!"
           },
           "understanding_web3": {
             "title": "Web3'ü Anlamak",
@@ -344,7 +344,7 @@
           },
           "supported_networks": {
             "title": "Desteklenen Ağlar",
-            "description": "Son zamanlara kadar, Rainbow ve birçok diğer blockchain projeleri sadece Ethereum ile uyumlu olmuştur - dünyanın kamusal merkezsiz defteri. Ethereum son derece güvenlidir ve oldukça güvenilir, ancak her zaman hız ve verimlilik için ideal olmayabilir."
+            "description": "Son zamanlara kadar, Bitfinity ve birçok diğer blockchain projeleri sadece Ethereum ile uyumlu olmuştur - dünyanın kamusal merkezsiz defteri. Ethereum son derece güvenlidir ve oldukça güvenilir, ancak her zaman hız ve verimlilik için ideal olmayabilir."
           },
           "collect_nfts": {
             "title": "OpenSea'de NFT Topla",
@@ -363,7 +363,7 @@
       },
       "ledger": {
         "title": "Donanım Cüzdanı Eşleştirme",
-        "body": "Ledger Nano X'inizi Rainbow ile Bluetooth üzerinden bağlayın."
+        "body": "Ledger Nano X'inizi Bitfinity ile Bluetooth üzerinden bağlayın."
       },
       "receive": {
         "receive_assets": "Varlıklar al",
@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "Hata!",
-      "restart_rainbow": "Rainbow'u Yeniden Başlat",
+      "restart_bitfinity": "Bitfinity'u Yeniden Başlat",
       "something_went_wrong": "Bir şeyler ters gitti.",
       "wallets_are_safe": "Endişelenme, cüzdanlarınız güvende! İşi geri almak için uygulamayı yeniden başlatın."
     },
@@ -507,7 +507,7 @@
         "label": "Olası kayıp"
       },
       "source": {
-        "rainbow": "Oto",
+        "bitfinity": "Oto",
         "0x": "0x",
         "1inch": "1 inç"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "Ödül",
         "exchange_rate": "Döviz kuru",
-        "rainbow_fee": "Dahil Rainbow ücreti",
+        "bitfinity_fee": "Dahil Bitfinity ücreti",
         "refuel": "Ekstra ağ tokenleri",
         "review": "İncele",
         "show_details": "Daha fazla detay",
@@ -698,20 +698,20 @@
     "explain": {
       "icon_unlock": {
         "smol_text": "Hazine buldunuz! Smolverse NFT'niz olduğu için Özelleştirilmiş Bir İkon'un kilidini açtınız!",
-        "optimism_text": "Optimism'deki NFT'leri kutlamak için, Rainbow ve Optimism, sizin gibi Optimistik Kaşifler için sınırlı sayıda Uygulama Simgesi sunmak üzere bir araya geldi!",
-        "zora_text": "Sihirli düşünme için yapılmış özel bir Rainbow Zorb simgesi.",
-        "finiliar_text": "Gazın fiyatı konusunda sizi yağmur yağsın ya da güneş doğsun güncel tutan özel bir Rainbow Fini simgesi.",
+        "optimism_text": "Optimism'deki NFT'leri kutlamak için, Bitfinity ve Optimism, sizin gibi Optimistik Kaşifler için sınırlı sayıda Uygulama Simgesi sunmak üzere bir araya geldi!",
+        "zora_text": "Sihirli düşünme için yapılmış özel bir Bitfinity Zorb simgesi.",
+        "finiliar_text": "Gazın fiyatı konusunda sizi yağmur yağsın ya da güneş doğsun güncel tutan özel bir Bitfinity Fini simgesi.",
         "finiliar_title": "Bir\nRainbow Fini'nin kilidini açtınız",
         "golddoge_text": "Kabosu'nun 17. doğum gününü kutlamak için sınırlı sayıda altın renkte Gökkuşağı uygulama simgesi.",
         "raindoge_text": "Kabosu'nun 17. doğum gününü kutlamak için sınırlı sayıda Gökkuşağı uygulama simgesi.",
-        "pooly_text": "Özgürlük destekçileri için özel bir Rainbow Pooly ikonu.",
+        "pooly_text": "Özgürlük destekçileri için özel bir Bitfinity Pooly ikonu.",
         "pooly_title": "\nRainbow Pooly'nin kilidini açtınız",
-        "zorb_text": "Özel bir Rainbow Zorb sürümü:\nSevdiğinizin 100%'ü, daha hızlı ve daha etkili.",
+        "zorb_text": "Özel bir Bitfinity Zorb sürümü:\nSevdiğinizin 100%'ü, daha hızlı ve daha etkili.",
         "zorb_title": "\nRainbow Zorb Enerjisi'nin kilidini açtınız!",
-        "poolboy_text": "Onchain yazı için özel bir Rainbow x Poolsuite İkonu.",
+        "poolboy_text": "Onchain yazı için özel bir Bitfinity x Poolsuite İkonu.",
         "poolboy_title": "\nGökkuşağı Poolboy'un kilidini açtınız!",
-        "adworld_text": "Bir Rainbow Dünya Vatandaşı olarak, artık özel baskı bir\nAdWorld x Rainbow Uygulama Simgesini açabilirsiniz.",
-        "adworld_title": "Rainbow Dünyasına Hoş Geldiniz!",
+        "adworld_text": "Bir Bitfinity Dünya Vatandaşı olarak, artık özel baskı bir\nAdWorld x Bitfinity Uygulama Simgesini açabilirsiniz.",
+        "adworld_title": "Bitfinity Dünyasına Hoş Geldiniz!",
         "title": "\nGökkuşağı 􀆄 %{partner}kilidini açtınız.",
         "button": "Simgeyi kap"
       },
@@ -719,8 +719,8 @@
         "text": "%{fromNetwork}için, Gökkuşağı %{outputToken} almak istediğiniz miktar üzerinden swapları hazırlayamaz. \n\n Bunun yerine swap etmek istediğiniz %{inputToken} miktarını girmeyi deneyin.",
         "title": "%{inputToken} Yerine girin",
         "title_crosschain": "%{fromNetwork} %{inputToken} yerine girin",
-        "text_crosschain": "Rainbow, istediğiniz %{outputToken} miktarına dayalı takaslar hazırlayamaz. \n\n Bunun yerine takas etmek istediğiniz %{inputToken} miktarını girin.",
-        "text_bridge": "Rainbow, %{toNetwork} hedefinde almak istediğiniz %{outputToken} miktarına dayalı bir köprü hazırlayamaz. \n\n Bunun yerine köprülemek istediğiniz %{fromNetwork} %{inputToken} miktarını girin.",
+        "text_crosschain": "Bitfinity, istediğiniz %{outputToken} miktarına dayalı takaslar hazırlayamaz. \n\n Bunun yerine takas etmek istediğiniz %{inputToken} miktarını girin.",
+        "text_bridge": "Bitfinity, %{toNetwork} hedefinde almak istediğiniz %{outputToken} miktarına dayalı bir köprü hazırlayamaz. \n\n Bunun yerine köprülemek istediğiniz %{fromNetwork} %{inputToken} miktarını girin.",
         "title_empty": "Bir Token Seçin"
       },
       "available_networks": {
@@ -748,15 +748,15 @@
         "title": "Bağlantı başarısız oldu"
       },
       "failed_wc_invalid_methods": {
-        "text": "Dapp, Rainbow tarafından desteklenmeyen cüzdan imzalama (RPC) yöntemlerini istedi.",
+        "text": "Dapp, Bitfinity tarafından desteklenmeyen cüzdan imzalama (RPC) yöntemlerini istedi.",
         "title": "Bağlantı başarısız oldu"
       },
       "failed_wc_invalid_chains": {
-        "text": "Dapp, Rainbow tarafından desteklenmeyen ağları istedi.",
+        "text": "Dapp, Bitfinity tarafından desteklenmeyen ağları istedi.",
         "title": "Bağlantı başarısız oldu"
       },
       "failed_wc_invalid_chain": {
-        "text": "Bu istekte belirtilen ağ, Rainbow tarafından desteklenmiyor.",
+        "text": "Bu istekte belirtilen ağ, Bitfinity tarafından desteklenmiyor.",
         "title": "İşlem başarısız oldu"
       },
       "floor_price": {
@@ -806,7 +806,7 @@
         "title": "Onaylanmış Tokenler"
       },
       "unverified": {
-        "fragment1": "Rainbow, mümkün olduğunca çok tokeni ortaya çıkarır, ancak herkes bir token oluşturabilir veya sahte bir sözleşme ile bir projeyi temsil ettiğini iddia edebilir. \n\n Lütfen ",
+        "fragment1": "Bitfinity, mümkün olduğunca çok tokeni ortaya çıkarır, ancak herkes bir token oluşturabilir veya sahte bir sözleşme ile bir projeyi temsil ettiğini iddia edebilir. \n\n Lütfen ",
         "fragment2": "token sözleşmesini",
         "fragment3": " inceleyin ve yalnızca güvendiğiniz tokenlerle iletişim kurduğunuzdan emin olmak için her zaman araştırma yapın.",
         "title": "%{symbol} Doğrulanmamıştır",
@@ -825,7 +825,7 @@
         "title": "Yetersiz Likidite"
       },
       "fee_on_transfer": {
-        "fragment1": "Bu değiş tokuş, %{tokenName} sözleşmesi ek ücretler eklediği için Rainbow'da başarısız olacak.  \n\n Oku ",
+        "fragment1": "Bu değiş tokuş, %{tokenName} sözleşmesi ek ücretler eklediği için Bitfinity'da başarısız olacak.  \n\n Oku ",
         "fragment2": "rehberimiz",
         "fragment3": " bu token'ı değiştirmek için yardım alın!",
         "title": "Transfer Tokeni Üzerinden Ücret"
@@ -846,11 +846,11 @@
       "go_to_hop_with_icon": {
         "text": "Hop Köprüsü'ne Git 􀮶"
       },
-      "rainbow_fee": {
-        "text": "Rainbow, swaplardan %{feePercentage} ücret alır. Bu, size en iyi Ethereum deneyimini sağlama konusunda bize yardımcı olur."
+      "bitfinity_fee": {
+        "text": "Bitfinity, swaplardan %{feePercentage} ücret alır. Bu, size en iyi Ethereum deneyimini sağlama konusunda bize yardımcı olur."
       },
       "swap_routing": {
-        "text": "Varsayılan olarak, Rainbow swapınız için mümkün olan en ucuz yolu seçer. 0x'i veya 1inch'i özellikle kullanmayı tercih ederseniz, bunu da yapabilirsiniz.",
+        "text": "Varsayılan olarak, Bitfinity swapınız için mümkün olan en ucuz yolu seçer. 0x'i veya 1inch'i özellikle kullanmayı tercih ederseniz, bunu da yapabilirsiniz.",
         "title": "Swap Yönlendirme",
         "still_curious": {
           "fragment1": "Hala merak mı ediyorsunuz? ",
@@ -896,7 +896,7 @@
       "cannot_verify_bundle": "Paketi doğrulama başarısız! Bu bir dolandırıcılık olabilir. Kurulum engellendi.",
       "error": "HATA",
       "fedora": "Fedora",
-      "this_will_override_bundle": "Bu, paketinizi geçersiz kılacak. Dikkatli olun. Bir Rainbow çalışanı mısınız?",
+      "this_will_override_bundle": "Bu, paketinizi geçersiz kılacak. Dikkatli olun. Bir Bitfinity çalışanı mısınız?",
       "wait": "bekle"
     },
     "fields": {
@@ -941,7 +941,7 @@
       "edit_miner_tip": "Madenci Bahşişini Düzenle"
     },
     "homepage": {
-      "back": "Rainbow.me'ye geri dön",
+      "back": "Bitfinity.me'ye geri dön",
       "coming_soon": "Yakında.",
       "connect_ledger": {
         "button": "Ledger'i Bağla",
@@ -997,8 +997,8 @@
     "image_picker": {
       "cancel": "İptal",
       "confirm": "Kütüphane erişimini etkinleştir",
-      "message": "Bu, Rainbow'un kütüphanenizden fotoğraflarınızı kullanmasına izin verir",
-      "title": "Rainbow, fotoğraflarınıza erişmek istiyor"
+      "message": "Bu, Bitfinity'un kütüphanenizden fotoğraflarınızı kullanmasına izin verir",
+      "title": "Bitfinity, fotoğraflarınıza erişmek istiyor"
     },
     "input": {
       "asset_amount": "Miktar",
@@ -1014,8 +1014,8 @@
     },
     "list": {
       "share": {
-        "check_out_my_wallet": "🌈 Rainbow'daki koleksiyonlarımı kontrol edin %{showcaseUrl}",
-        "check_out_this_wallet": "Bu cüzdanın 🌈 Rainbow'daki koleksiyonlarını kontrol edin %{showcaseUrl}"
+        "check_out_my_wallet": "🌈 Bitfinity'daki koleksiyonlarımı kontrol edin %{showcaseUrl}",
+        "check_out_this_wallet": "Bu cüzdanın 🌈 Bitfinity'daki koleksiyonlarını kontrol edin %{showcaseUrl}"
       }
     },
     "message": {
@@ -1121,7 +1121,7 @@
       "external_link_warning": {
         "go_back": "geri dön",
         "visit_external_link": "Dış bağlantıyı ziyaret et?",
-        "you_are_attempting_to_visit": "Rainbow ile bağlantısı olmayan bir bağlantıyı ziyaret etmeye çalışıyorsunuz."
+        "you_are_attempting_to_visit": "Bitfinity ile bağlantısı olmayan bir bağlantıyı ziyaret etmeye çalışıyorsunuz."
       },
       "gas_average": "Ortalama",
       "gas_fast": "Hızlı",
@@ -1216,7 +1216,7 @@
         "hold_to_sell": "Satmak için Tut",
         "error": {
           "title": "NFT satarken hata",
-          "message": "Lütfen yardım için Rainbow destek hattına başvurun."
+          "message": "Lütfen yardım için Bitfinity destek hattına başvurun."
         }
       }
     },
@@ -1284,14 +1284,14 @@
         "error": "Hata!\nYenilemek için aşağı çekin.",
         "points": "puanlar",
         "referral_code_copied": "Referans kodu kopyalandı",
-        "earn_points_for_referring": "Rainbow üzerinden takas yapan tavsiyeleriniz için puan kazanın, ayrıca tavsiyelerinizin kazandığı puanların %10'unu kazanın",
+        "earn_points_for_referring": "Bitfinity üzerinden takas yapan tavsiyeleriniz için puan kazanın, ayrıca tavsiyelerinizin kazandığı puanların %10'unu kazanın",
         "already_claimed_points": "Üzgünüz! Puanlarınızı zaten talep ettiniz.",
         "now": "Şimdi",
         "unranked": "Sıralamasız",
         "points_to_rank": "Rütbeye ulaşmak için 750 puan"
       },
       "console": {
-        "claim_bonus_paragraph": "Rainbow üzerinden en az 100 dolarlık takas yapmanız durumunda ekstra 100 puan alacaksınız",
+        "claim_bonus_paragraph": "Bitfinity üzerinden en az 100 dolarlık takas yapmanız durumunda ekstra 100 puan alacaksınız",
         "welcome_bonus": "Hoş Geldin Bonusu",
         "true_believer": "Gerçek İnanan",
         "registration_complete": "Kayıt Tamamlandı",
@@ -1300,12 +1300,12 @@
         "points_earned": "Kazanılan Puanlar",
         "share_bonus_paragraph_one": "Her şey hazır!",
         "share_bonus_paragraph_two": "Takas yaparak, köprü oluşturarak, madeni para basarak, arkadaşlarını davet ederek ve daha fazlasını yaparak puan kazanmaya devam ediniz",
-        "share_bonus_paragraph_three": "Rainbow'u ne kadar çok kullanırsanız, o kadar çok ödüllendirileceksiniz",
+        "share_bonus_paragraph_three": "Bitfinity'u ne kadar çok kullanırsanız, o kadar çok ödüllendirileceksiniz",
         "calculation_complete": "Hesaplama tamamlandı",
         "metamask_swaps": "MetaMask Takasları",
         "wallet_balance": "Cüzdan Bakiyesi",
-        "rainbow_nfts_owned": "Sahip Olunan Rainbow NFT'ler",
-        "rainbow_swaps": "Rainbow Takasları",
+        "bitfinity_nfts_owned": "Sahip Olunan Bitfinity NFT'ler",
+        "bitfinity_swaps": "Bitfinity Takasları",
         "calculating_points": "Puan hesaplanıyor",
         "access_granted": "Erişim izni verildi",
         "sign_in_with_wallet": "Cüzdanınızla giriş yapın",
@@ -1526,7 +1526,7 @@
         "secondary_button": "Belki sonra",
         "info_row_1": {
           "title": "Tüm favori jetonlarınızı değiştirin",
-          "description": "Rainbow, işleminiz için en iyi oranı bulmak adına her yeri arar."
+          "description": "Bitfinity, işleminiz için en iyi oranı bulmak adına her yeri arar."
         },
         "info_row_2": {
           "title": "Doğrudan L2'de değiştirmek",
@@ -1536,7 +1536,7 @@
           "title": "Flashbots koruması",
           "description": "Fiyat koruması, plus başarısız değişimlerde hiçbir ücret yok. Ayarlarda aktif hale getirin."
         },
-        "header": "Rainbow'da Değişimler",
+        "header": "Bitfinity'da Değişimler",
         "subheader": "YENİDEN TANITMA"
       },
       "notifications_launch": {
@@ -1584,7 +1584,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "Rainbow'dan memnun musunuz? 🥰",
+        "are_you_enjoying_bitfinity": "Bitfinity'dan memnun musunuz? 🥰",
         "leave_a_review": "App Store'da bir inceleme bırakın!",
         "no": "Hayır",
         "yes": "Evet"
@@ -1625,7 +1625,7 @@
       "rewards_claimed": "Haftalık Ödüller Talep Edildi",
       "refreshes_next_week": "Gelecek hafta yenilenir",
       "all_rewards_claimed": "Bu hafta tüm ödüller talep edildi",
-      "rainbow_users_claimed": "Rainbow kullanıcıları %{amount}talep etti",
+      "bitfinity_users_claimed": "Bitfinity kullanıcıları %{amount}talep etti",
       "refreshes_in_with_days": "%{days} gün %{hours} saat içinde yenilenir",
       "refreshes_in_without_days": "%{hours} saat içinde yenilenir",
       "percent": "%{percent}% ödül",
@@ -1715,7 +1715,7 @@
       "feedback_and_reports": "Geri Bildirim & Hata Raporları",
       "feedback_and_support": "Geri Bildirim ve Destek",
       "follow_us_on_twitter": "Twitter'da bizi takip edin",
-      "hey_friend_message": "👋️ Hey dostum! Rainbow'u indirmelisin, benim en sevdiğim Ethereum cüzdanı 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
+      "hey_friend_message": "👋️ Hey dostum! Bitfinity'u indirmelisin, benim en sevdiğim Ethereum cüzdanı 🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️🌈️",
       "label": "Ayarlar",
       "language": "Dil",
       "learn": "Ethereum Hakkında Bilgi Edinin",
@@ -1737,13 +1737,13 @@
         "all": "Tümü",
         "off": "Kapalı",
         "plus_n_more": "+ %{n} daha fazla",
-        "no_permissions": "Görünüşe göre bildirim izinleriniz devre dışı. Rainbow'dan bildirim almak için lütfen Ayarlar'dan etkinleştirin.",
+        "no_permissions": "Görünüşe göre bildirim izinleriniz devre dışı. Bitfinity'dan bildirim almak için lütfen Ayarlar'dan etkinleştirin.",
         "no_watched_wallets": "Herhangi bir cüzdanı izlemiyorsunuz.",
-        "no_owned_wallets": "Rainbow'da herhangi bir cüzdanınız yok. Bir cüzdan oluşturun veya gizli ifadenizle bir tane içe aktarın.",
+        "no_owned_wallets": "Bitfinity'da herhangi bir cüzdanınız yok. Bir cüzdan oluşturun veya gizli ifadenizle bir tane içe aktarın.",
         "open_system_settings": "Ayarları Aç",
         "unsupported_network": "Bildirimler şu anda yalnızca Ethereum Mainnet işlemleri için geçerlidir.",
         "change_network": "Ağınızı Değiştirin",
-        "no_first_time_permissions": "Lütfen Rainbow'un size bildirimler göndermesine izin verin.",
+        "no_first_time_permissions": "Lütfen Bitfinity'un size bildirimler göndermesine izin verin.",
         "first_time_allow_notifications": "Bildirimlere İzin Ver",
         "error_alert_title": "Abonelik Başarısız",
         "error_alert_content": "Lütfen daha sonra tekrar deneyin.",
@@ -1754,15 +1754,15 @@
       "privacy": "Gizlilik",
       "privacy_section": {
         "public_showcase": "Halka Açık Sergi",
-        "when_public": "Herkese açık olduğunda, NFT Vitrininiz Rainbow profilinizde görünür olacak!",
-        "when_public_prefix": "Herkese açık olduğunda, NFT Vitrininiz Rainbow web profilinizde görünür olacak! Profilinizi buradan görüntüleyebilirsiniz",
+        "when_public": "Herkese açık olduğunda, NFT Vitrininiz Bitfinity profilinizde görünür olacak!",
+        "when_public_prefix": "Herkese açık olduğunda, NFT Vitrininiz Bitfinity web profilinizde görünür olacak! Profilinizi buradan görüntüleyebilirsiniz",
         "view_profile": "Profilinizi görüntüleyin",
         "analytics_toggle": "Analitik",
-        "analytics_toggle_description": "Kullanım verilerinin analizine izin vererek Rainbow'un ürünlerini ve hizmetlerini geliştirmesine yardımcı olun. Toplanan veriler sizinle veya hesabınızla ilişkilendirilmez."
+        "analytics_toggle_description": "Kullanım verilerinin analizine izin vererek Bitfinity'un ürünlerini ve hizmetlerini geliştirmesine yardımcı olun. Toplanan veriler sizinle veya hesabınızla ilişkilendirilmez."
       },
       "restore": "Orijinal dağıtıma geri yükleyin",
-      "review": "Rainbow'ı inceleyin",
-      "share_rainbow": "Rainbow'ı paylaşın",
+      "review": "Bitfinity'ı inceleyin",
+      "share_bitfinity": "Bitfinity'ı paylaşın",
       "theme": "Tema",
       "theme_section": {
         "system": "Sistem",
@@ -1771,7 +1771,7 @@
       },
       "icon_change": {
         "title": "Simge değişikliğini onayla",
-        "warning": "Simgeyi değiştirmek Rainbow'un yeniden başlamasına neden olabilir.",
+        "warning": "Simgeyi değiştirmek Bitfinity'un yeniden başlamasına neden olabilir.",
         "confirm": "Onayla",
         "cancel": "İptal"
       }
@@ -1962,7 +1962,7 @@
     },
     "hardware_wallets": {
       "pair_your_nano": "Nano X'inizi eşleştirin",
-      "connect_your_ledger": "Ledger Nano X'inizi Bluetooth üzerinden Rainbow'a bağlayın. Eğer ilk kez yapıyorsanız, Rainbow Bluetooth erişimi için izin isteyecektir.",
+      "connect_your_ledger": "Ledger Nano X'inizi Bluetooth üzerinden Bitfinity'a bağlayın. Eğer ilk kez yapıyorsanız, Bitfinity Bluetooth erişimi için izin isteyecektir.",
       "learn_more_about_ledger": "Ledger hakkında daha fazla bilgi edinin",
       "pair_a_new_ledger": "Yeni bir Ledger eşleştirin",
       "looking_for_devices": "Cihaz arıyor",
@@ -2160,14 +2160,14 @@
         "you_need_to_authenticate_with_your_pin": "Cüzdan sırlarına erişmek için PIN'inizle doğrulama yapmanız gerekiyor",
         "share_application_state": "Uygulama durum dökümünü paylaş",
         "wallet_details_title": "Cüzdan detayları",
-        "wallet_details_description": "Aşağıda, Rainbow'a eklenen tüm cüzdanların detayları bulunmaktadır."
+        "wallet_details_description": "Aşağıda, Bitfinity'a eklenen tüm cüzdanların detayları bulunmaktadır."
       },
       "error_displaying_address": "Adres gösterme hatası",
       "feedback": {
         "cancel": "Hayır, teşekkür ederim",
         "choice": "Geri bildirim e-posta adresimizi manuel olarak panonuza kopyalamak ister misiniz?",
         "copy_email_address": "E-posta adresini kopyala",
-        "email_subject": "📱 Rainbow Beta Geribildirim",
+        "email_subject": "📱 Bitfinity Beta Geribildirim",
         "error": "E-posta istemcisi başlatılırken hata",
         "send": "Geribildirim Gönder"
       },
@@ -2176,7 +2176,7 @@
         "create_wallet": "Bir Cüzdan Oluştur",
         "instructions": "Lütfen cüzdanınızda kaybetmeyi göze alabileceğinizden daha fazlasını saklamayın.",
         "warning": "Bu bir alfa yazılımıdır.",
-        "welcome": "Rainbow'a Hoş Geldiniz"
+        "welcome": "Bitfinity'a Hoş Geldiniz"
       },
       "invalid_ens_name": "Bu geçerli bir ENS adı değil",
       "invalid_unstoppable_name": "Bu geçerli bir Unstoppable adı değil",
@@ -2213,7 +2213,7 @@
               "title": "Donanım cüzdanınızı bağlayın"
             },
             "seed": {
-              "description": "Rainbow veya başka bir kripto cüzdanından kurtarma ifadenizi kullanın",
+              "description": "Bitfinity veya başka bir kripto cüzdanından kurtarma ifadenizi kullanın",
               "title": "Bir kurtarma ifadesi veya özel anahtarla geri yükleyin"
             },
             "watch": {
@@ -2235,7 +2235,7 @@
           "continue": "Devam Et",
           "import": {
             "title": "Bir cüzdanı geri yükleyin",
-            "description": "Rainbow ya da başka bir kripto cüzdanından kurtarma ifadesi veya özel anahtar ile geri yükle",
+            "description": "Bitfinity ya da başka bir kripto cüzdanından kurtarma ifadesi veya özel anahtar ile geri yükle",
             "placeholder": "Bir kurtarma ifadesi veya özel anahtar girin",
             "button": "İçe Aktar"
           },
@@ -2259,7 +2259,7 @@
         "get_new_wallet": "Yeni bir cüzdan alın",
         "import_wallet": "Cüzdanı İçe Aktar",
         "name_wallet": "Cüzdanınıza bir isim verin",
-        "terms": "Devam ederek, Rainbow’un ",
+        "terms": "Devam ederek, Bitfinity’un ",
         "terms_link": "Kullanım Şartları"
       },
       "pin_authentication": {
@@ -2273,7 +2273,7 @@
       },
       "push_notifications": {
         "please_enable_body": "Görünüşe göre WalletConnect kullanıyorsunuz. WalletConnect'ten gelen işlem istekleri hakkında bildirim almak için lütfen bildirimleri etkinleştirin.",
-        "please_enable_title": "Rainbow sana bildirimler göndermek istiyor"
+        "please_enable_title": "Bitfinity sana bildirimler göndermek istiyor"
       },
       "qr": {
         "camera_access_needed": "Tarama yapmak için kamera erişimi gereklidir!",
@@ -2423,14 +2423,14 @@
         "generic_title": "Bağlantı başarısız oldu",
         "generic_error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin veya destek ekibimize başvurun.",
         "pairing_timeout": "Bağlantı kurulmadan önce bu oturumun süresi doldu. Bu genellikle bir ağ hatası nedeniyle olur. Lütfen tekrar deneyin.",
-        "pairing_unsupported_methods": "Dapp, Rainbow tarafından desteklenmeyen cüzdan RPC yöntemlerini istedi.",
-        "pairing_unsupported_networks": "Dapp, Rainbow tarafından desteklenmeyen ağları istedi.",
+        "pairing_unsupported_methods": "Dapp, Bitfinity tarafından desteklenmeyen cüzdan RPC yöntemlerini istedi.",
+        "pairing_unsupported_networks": "Dapp, Bitfinity tarafından desteklenmeyen ağları istedi.",
         "read_only_wallet_on_signing_method": "Bu istek için izin verilmeyen bir salt okunur cüzdan kullandığınız görünüyor.",
-        "namespaces_invalid": "Dapp tarafından istenen isim alanları ile ilgili bir sorun oluştu. Lütfen tekrar deneyin veya Rainbow ve/veya dapp destek ekipleriyle iletişime geçin.",
-        "request_invalid": "İstekte geçersiz parametreler bulunuyordu. Lütfen tekrar deneyin veya Rainbow ve/veya dapp destek ekipleri ile iletişime geçin.",
-        "eth_sign": "Güvenlik endişeleri nedeniyle Rainbow, eski eth_sign'ı desteklememektedir.  \n Herhangi bir sorunuz varsa lütfen Rainbow ve/veya dapp destek ekipleriyle iletişime geçin.",
-        "request_unsupported_network": "Bu istekte belirtilen ağ, Rainbow tarafından desteklenmiyor.",
-        "request_unsupported_methods": "Bu istekte belirtilen RPC yöntemi(ler) Rainbow tarafından desteklenmiyor.",
+        "namespaces_invalid": "Dapp tarafından istenen isim alanları ile ilgili bir sorun oluştu. Lütfen tekrar deneyin veya Bitfinity ve/veya dapp destek ekipleriyle iletişime geçin.",
+        "request_invalid": "İstekte geçersiz parametreler bulunuyordu. Lütfen tekrar deneyin veya Bitfinity ve/veya dapp destek ekipleri ile iletişime geçin.",
+        "eth_sign": "Güvenlik endişeleri nedeniyle Bitfinity, eski eth_sign'ı desteklememektedir.  \n Herhangi bir sorunuz varsa lütfen Bitfinity ve/veya dapp destek ekipleriyle iletişime geçin.",
+        "request_unsupported_network": "Bu istekte belirtilen ağ, Bitfinity tarafından desteklenmiyor.",
+        "request_unsupported_methods": "Bu istekte belirtilen RPC yöntemi(ler) Bitfinity tarafından desteklenmiyor.",
         "no_accounts_found": "Onaylanmış ad alanlarında hiç hesap bulunamadı."
       },
       "dapp_warnings": {

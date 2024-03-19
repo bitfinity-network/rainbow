@@ -504,10 +504,10 @@ export const explainers = (params, theme) => {
       text: BACKUP_EXPLAINER,
       title: lang.t('explain.backup.title'),
     },
-    rainbow_fee: {
+    bitfinity_fee: {
       emoji: '🌈',
       extraHeight: -100,
-      text: lang.t('explain.rainbow_fee.text', {
+      text: lang.t('explain.bitfinity_fee.text', {
         feePercentage: params?.feePercentage,
       }),
       title: 'Rainbow Fee',

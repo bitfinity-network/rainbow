@@ -59,7 +59,7 @@ export const Calculate = () => {
                 <AnimatedText
                   color={rainbowColors.blue}
                   enableHapticTyping
-                  textContent={`${i18n.t(i18n.l.points.console.rainbow_swaps)}:`}
+                  textContent={`${i18n.t(i18n.l.points.console.bitfinity_swaps)}:`}
                 />
                 <AnimatedText
                   color={rainbowColors.blue}
@@ -75,7 +75,7 @@ export const Calculate = () => {
                   color={rainbowColors.green}
                   delayStart={1000}
                   enableHapticTyping
-                  textContent={`${i18n.t(i18n.l.points.console.rainbow_nfts_owned)}:`}
+                  textContent={`${i18n.t(i18n.l.points.console.bitfinity_nfts_owned)}:`}
                 />
                 <AnimatedText
                   color={rainbowColors.green}

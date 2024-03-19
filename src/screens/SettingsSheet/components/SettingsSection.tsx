@@ -303,7 +303,7 @@ const SettingsSection = ({
           onPress={onPressShare}
           size={52}
           testID="share-section"
-          titleComponent={<MenuItem.Title text={lang.t('settings.share_rainbow')} />}
+          titleComponent={<MenuItem.Title text={lang.t('settings.share_bitfinity')} />}
         />
         <MenuItem
           leftComponent={<MenuItem.TextIcon icon="🧠" isEmoji />}

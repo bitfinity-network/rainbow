@@ -56,7 +56,7 @@ export default function Fallback() {
           <SheetActionButton
             color={colors.alpha(colors.appleBlue, 0.06)}
             isTransparent
-            label={`🌈 ${lang.t('error_boundary.restart_rainbow')}`}
+            label={`🌈 ${lang.t('error_boundary.restart_bitfinity')}`}
             onPress={handleRestart}
             size="big"
             textColor={colors.appleBlue}

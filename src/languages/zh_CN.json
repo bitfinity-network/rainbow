@@ -471,7 +471,7 @@
     },
     "error_boundary": {
       "error_boundary_oops": "糟糕！",
-      "restart_rainbow": "重启 Rainbow",
+      "restart_bitfinity": "重启 Bitfinity",
       "something_went_wrong": "出了点问题。",
       "wallets_are_safe": "别担心，你的钱包是安全的！只需重启应用程序就可以回到运营状态。"
     },
@@ -507,7 +507,7 @@
         "label": "可能的损失"
       },
       "source": {
-        "rainbow": "自动",
+        "bitfinity": "自动",
         "0x": "0x",
         "1inch": "1英寸"
       },
@@ -625,7 +625,7 @@
       "swap_details": {
         "reward": "奖励",
         "exchange_rate": "汇率",
-        "rainbow_fee": "包含 Rainbow 费用",
+        "bitfinity_fee": "包含 Bitfinity 费用",
         "refuel": "额外网络令牌",
         "review": "审阅",
         "show_details": "更多详情",
@@ -710,7 +710,7 @@
         "zorb_title": "您已解锁\n彩虹Zorb能量！",
         "poolboy_text": "一款为链上夏季打造的特别版彩虹x Poolsuite图标。",
         "poolboy_title": "您已解锁\n个彩虹Poolboy！",
-        "adworld_text": "作为彩虹世界公民，您现在可以解锁特别版的\nAdWorld x Rainbow 应用图标。",
+        "adworld_text": "作为彩虹世界公民，您现在可以解锁特别版的\nAdWorld x Bitfinity 应用图标。",
         "adworld_title": "欢迎来到彩虹世界！",
         "title": "你已解锁了\n个Rainbow􀆄 %{partner}",
         "button": "获取图标"
@@ -806,7 +806,7 @@
         "title": "已验证的代币"
       },
       "unverified": {
-        "fragment1": "Rainbow 会尽可能表面化很多代币，但任何人都可以创建一个代币，或者假装代表一个项目并使用虚假的合同。 \n\n 请查看 ",
+        "fragment1": "Bitfinity 会尽可能表面化很多代币，但任何人都可以创建一个代币，或者假装代表一个项目并使用虚假的合同。 \n\n 请查看 ",
         "fragment2": "代币合同",
         "fragment3": " 并始终进行研究，以确保你与你信任的代币进行互动。",
         "title": "%{symbol} 是未经验证的",
@@ -846,7 +846,7 @@
       "go_to_hop_with_icon": {
         "text": "前往跃点桥 􀮶"
       },
-      "rainbow_fee": {
+      "bitfinity_fee": {
         "text": "彩虹从交换中取走 %{feePercentage} 的费用。这是我们能为您提供最佳以太坊体验的一部分。"
       },
       "swap_routing": {
@@ -1304,8 +1304,8 @@
         "calculation_complete": "计算完成",
         "metamask_swaps": "MetaMask 交换",
         "wallet_balance": "钱包余额",
-        "rainbow_nfts_owned": "拥有的彩虹 NFTs",
-        "rainbow_swaps": "彩虹交换",
+        "bitfinity_nfts_owned": "拥有的彩虹 NFTs",
+        "bitfinity_swaps": "彩虹交换",
         "calculating_points": "计算积分",
         "access_granted": "授权成功",
         "sign_in_with_wallet": "用您的钱包登录",
@@ -1584,7 +1584,7 @@
     },
     "review": {
       "alert": {
-        "are_you_enjoying_rainbow": "你喜欢Rainbow吗？🥰",
+        "are_you_enjoying_bitfinity": "你喜欢Rainbow吗？🥰",
         "leave_a_review": "在App Store上留下评论！",
         "no": "不",
         "yes": "是"
@@ -1625,7 +1625,7 @@
       "rewards_claimed": "已领取的每周奖励",
       "refreshes_next_week": "下周刷新",
       "all_rewards_claimed": "本周的所有奖励已被领取",
-      "rainbow_users_claimed": "彩虹用户已领取 %{amount}",
+      "bitfinity_users_claimed": "彩虹用户已领取 %{amount}",
       "refreshes_in_with_days": "%{days} 天 %{hours} 小时后刷新",
       "refreshes_in_without_days": "%{hours} 小时后刷新",
       "percent": "%{percent}% 的奖励",
@@ -1754,15 +1754,15 @@
       "privacy": "隐私",
       "privacy_section": {
         "public_showcase": "公开展示",
-        "when_public": "公开时，您的 NFT 展示将在您的 Rainbow 个人资料中可见！",
-        "when_public_prefix": "公开时，您的 NFT 展示将在您的 Rainbow 网页个人资料中可见！您可以在以下网址查看您的个人资料：",
+        "when_public": "公开时，您的 NFT 展示将在您的 Bitfinity 个人资料中可见！",
+        "when_public_prefix": "公开时，您的 NFT 展示将在您的 Bitfinity 网页个人资料中可见！您可以在以下网址查看您的个人资料：",
         "view_profile": "查看您的个人资料",
         "analytics_toggle": "分析",
         "analytics_toggle_description": "通过允许使用数据分析来帮助Rainbow改善其产品和服务。收集的数据与您或您的帐户无关。"
       },
       "restore": "恢复到原始部署",
       "review": "评价Rainbow",
-      "share_rainbow": "分享Rainbow",
+      "share_bitfinity": "分享Rainbow",
       "theme": "主题",
       "theme_section": {
         "system": "系统",
@@ -2167,7 +2167,7 @@
         "cancel": "不，谢谢",
         "choice": "您是否想要手动将我们的反馈电子邮件地址复制到您的剪贴板？",
         "copy_email_address": "复制电子邮件地址",
-        "email_subject": "📱 Rainbow Beta 反馈",
+        "email_subject": "📱 Bitfinity Beta 反馈",
         "error": "启动电子邮件客户端错误",
         "send": "发送反馈"
       },
@@ -2176,7 +2176,7 @@
         "create_wallet": "创建钱包",
         "instructions": "请不要在钱包中存放超过您愿意失去的金额。",
         "warning": "这是 alpha 版软件。",
-        "welcome": "欢迎来到 Rainbow"
+        "welcome": "欢迎来到 Bitfinity"
       },
       "invalid_ens_name": "这不是有效的 ENS 名称",
       "invalid_unstoppable_name": "这不是有效的 Unstoppable 名称",
