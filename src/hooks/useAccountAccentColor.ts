@@ -8,9 +8,10 @@ export function useAccountAccentColor() {
   const dominantColor = usePersistentDominantColorFromImage(accountImage);
 
   const { colors } = useTheme();
-  let accentColor = colors.appleBlue;
+
+  let accentColor = colors.burple;
   if (accountImage) {
-    accentColor = dominantColor || colors.appleBlue;
+    accentColor = dominantColor || colors.burple;
   } else if (typeof accountColor === 'number') {
     accentColor = colors.avatarBackgrounds[accountColor];
   }

@@ -57,6 +57,7 @@ const isRGB = memoFn(
 );
 
 const avatarBackgrounds = [
+  '#5738DF',
   '#FC5C54',
   '#FFD95A',
   '#E95D72',
@@ -150,6 +151,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
     yellow: '#FFD657', // '255, 214, 87'
     yellowFavorite: '#FFB200', // '255, 178, 0'
     yellowOrange: '#FFC400', // '255, 196, 0',
+    burple: '#5738DF',
   };
 
   const avatarColor = [
@@ -191,6 +193,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
     zora: '#2B5DF0',
     avalanche: '#E84142',
     blast: '#25292E',
+    bitfinity: '#5738DF',
   };
 
   let gradients = {
@@ -332,6 +335,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
       zora: '#6183F0',
       avalanche: '#FF5D5E',
       blast: '#FCFC03',
+      bitfinity: '#5738DF',
     };
   }
 

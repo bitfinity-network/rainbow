@@ -60,7 +60,6 @@ export const AddTokenButton = () => {
   const connectedToHardhat = isHardHat(providerUrl);
 
   const handlePress = useCallback(() => {
-    console.log('ADD_TOKEN_BUTTON');
     let token: ParsedAddressAsset | undefined;
     for (const tokenEntry of tokens) {
       const existingAsset = sortedAssets.find(s => s.address === tokenEntry.address);
