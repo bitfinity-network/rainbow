@@ -22,18 +22,18 @@ const EMPTY_WALLET_CONTENT = [
     type: 'RECEIVE_CARD',
     uid: 'receive_card',
   },
-  { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-1' },
-  { type: 'ETH_CARD', uid: 'eth-card' },
-  { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-2' },
-  {
-    type: 'LEARN_CARD',
-    uid: 'learn-card',
-  },
-  { type: 'BIG_EMPTY_WALLET_SPACER', uid: 'big-empty-wallet-spacer-2' },
-  {
-    type: 'DISCOVER_MORE_BUTTON',
-    uid: 'discover-home-button',
-  },
+  // { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-1' },
+  // { type: 'ETH_CARD', uid: 'eth-card' },
+  // { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-2' },
+  // {
+  //   type: 'LEARN_CARD',
+  //   uid: 'learn-card',
+  // },
+  // { type: 'BIG_EMPTY_WALLET_SPACER', uid: 'big-empty-wallet-spacer-2' },
+  // {
+  //   type: 'DISCOVER_MORE_BUTTON',
+  //   uid: 'discover-home-button',
+  // },
 ];
 
 const ONLY_NFTS_CONTENT = [{ type: 'ETH_CARD', uid: 'eth-card' }];
@@ -203,11 +203,11 @@ const withBriefBalanceSection = (
         uid: 'remote-card-carousel',
       },
       ...content,
-      { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-3' },
-      {
-        type: 'ADD_TOKEN_BUTTON',
-        uid: 'add-token-button',
-      },
+      // { type: 'EMPTY_WALLET_SPACER', uid: 'empty-wallet-spacer-3' },
+      // {
+      //   type: 'ADD_TOKEN_BUTTON',
+      //   uid: 'add-token-button',
+      // },
     ],
     isLoadingUserAssets,
     isEmpty,
