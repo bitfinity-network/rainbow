@@ -106,7 +106,7 @@ const DEFAULT_CONFIG: RainbowConfig = {
   }),
   ethereum_goerli_rpc: __DEV__ ? ETHEREUM_GOERLI_RPC_DEV : ETHEREUM_GOERLI_RPC,
   ethereum_mainnet_rpc: __DEV__ ? ETHEREUM_MAINNET_RPC_DEV : ETHEREUM_MAINNET_RPC,
-  f2c_enabled: true,
+  f2c_enabled: false,
   flashbots_enabled: true,
   op_nft_network: 'op-mainnet',
   op_rewards_enabled: false,
@@ -118,7 +118,7 @@ const DEFAULT_CONFIG: RainbowConfig = {
   avalanche_mainnet_rpc: __DEV__ ? AVALANCHE_MAINNET_RPC_DEV : AVALANCHE_MAINNET_RPC,
   blast_mainnet_rpc: BLAST_MAINNET_RPC,
   bitfinity_testnet_rpc: BITFINITY_TESTNET_RPC,
-  swagg_enabled: true,
+  swagg_enabled: false,
   trace_call_block_number_offset: 20,
   profiles_enabled: true,
 

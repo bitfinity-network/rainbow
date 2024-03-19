@@ -45,11 +45,11 @@ export function ProfileActionButtonsRow() {
   if (!accentColorLoaded) return null;
 
   return (
-    <Box width="full">
+    <Box width="2/3">
       <Inset horizontal={{ custom: 17 }}>
         <AccentColorProvider color={accentColor}>
           <Columns>
-            {addCashEnabled && (
+            {/* {addCashEnabled && (
               <Column>
                 <Animated.View style={[expandStyle]}>
                   <BuyButton />
@@ -62,7 +62,7 @@ export function ProfileActionButtonsRow() {
                   <SwapButton />
                 </Animated.View>
               </Column>
-            )}
+            )} */}
             <Column>
               <Animated.View style={[expandStyle]}>
                 <SendButton />
