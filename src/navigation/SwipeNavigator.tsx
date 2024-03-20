@@ -65,7 +65,7 @@ const TabBar = ({ descriptors, jumpTo, navigation, state }: TabBarProps) => {
   const showDappBrowserTab = useExperimentalFlag(DAPP_BROWSER) || dapp_browser;
   const showPointsTab = useExperimentalFlag(POINTS) || points_enabled || IS_TEST;
 
-  const numberOfTabs = 3 + (showPointsTab ? 1 : 0) + (showDappBrowserTab ? 1 : 0);
+  const numberOfTabs = 2 + (showPointsTab ? 1 : 0) + (showDappBrowserTab ? 1 : 0);
   const tabWidth = (deviceWidth - HORIZONTAL_TAB_BAR_INSET * 2) / numberOfTabs;
   const tabPillStartPosition = (tabWidth - 72) / 2 + HORIZONTAL_TAB_BAR_INSET;
 
@@ -183,6 +183,8 @@ const TabBar = ({ descriptors, jumpTo, navigation, state }: TabBarProps) => {
         // options.title should never be undefined as long as a title is specified for each Swipe.Screen
         const tabBarIcon = options.title as string;
 
+        const disabled = options.title === 'tabActivity' || options.title === 'tabPoints';
+
         return (
           <Box
             height="full"
@@ -198,6 +200,7 @@ const TabBar = ({ descriptors, jumpTo, navigation, state }: TabBarProps) => {
               onLongPress={() => onLongPress(route, tabBarIcon)}
               onPress={() => onPress(route, index, isFocused, tabBarIcon)}
               scaleTo={0.75}
+              disabled={disabled}
             >
               <Stack alignHorizontal="center">
                 <Box alignItems="center" borderRadius={20} height="36px" justifyContent="center">
@@ -317,7 +320,7 @@ function SwipeNavigatorScreens() {
         }}
       /> */}
       <Swipe.Screen component={WalletScreen} name={Routes.WALLET_SCREEN} options={{ title: 'tabHome' }} />
-      <Swipe.Screen component={DiscoverScreen} name={Routes.DISCOVER_SCREEN} options={{ title: 'tabDiscover' }} />
+      {/* <Swipe.Screen component={DiscoverScreen} name={Routes.DISCOVER_SCREEN} options={{ title: 'tabDiscover' }} /> */}
       {showDappBrowserTab && (
         <Swipe.Screen component={DappBrowserScreen} name={Routes.DAPP_BROWSER_SCREEN} options={{ title: 'tabDappBrowser' }} />
       )}
