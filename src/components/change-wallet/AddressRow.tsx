@@ -22,6 +22,7 @@ import { EditWalletContextMenuActions } from '@/screens/ChangeWalletSheet';
 import { toChecksumAddress } from '@/handlers/web3';
 import { IS_IOS, IS_ANDROID } from '@/env';
 import { ContextMenu } from '../context-menu';
+import BitfinityBadge from '@/assets/badges/bitfinity.png';
 
 const maxAccountLabelWidth = deviceUtils.dimensions.width - 88;
 const NOOP = () => undefined;
@@ -97,7 +98,11 @@ const OptionsIcon = ({ onPress }: { onPress: () => void }) => {
   return (
     <ButtonPressAnimation onPress={onPress} scaleTo={0.9}>
       <Centered height={40} width={60}>
-        {IS_ANDROID ? <Icon circle color={colors.appleBlue} name="threeDots" tightDots /> : <Text style={sx.editIcon}>􀍡</Text>}
+        {IS_ANDROID ? (
+          <Icon circle color={colors.bitfinity} name="threeDots" tightDots />
+        ) : (
+          <Text style={[sx.editIcon, { color: colors.bitfinity }]}>􀍡</Text>
+        )}
       </Centered>
     </ButtonPressAnimation>
   );
@@ -238,7 +243,8 @@ export default function AddressRow({ contextMenuActions, data, editMode, onPress
             {accountImage ? (
               <ImageAvatar image={accountImage} marginRight={10} size="medium" />
             ) : (
-              <ContactAvatar color={accountColor} marginRight={10} size="medium" value={emoji} />
+              // <ContactAvatar color={accountColor} marginRight={10} size="medium" value={emoji} />
+              <ImageAvatar local={true} image={BitfinityBadge} marginRight={10} size="medium" />
             )}
             <ColumnWithMargins margin={IS_ANDROID ? -6 : 3}>
               <StyledTruncatedText color={colors.dark} testID={`change-wallet-address-row-label-${walletName}`}>

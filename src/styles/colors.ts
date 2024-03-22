@@ -48,6 +48,7 @@ const darkModeColors = {
   surfacePrimary: '#000000',
   white: '#12131A',
   whiteLabel: '#FFFFFF',
+  bitfinity: '#207AF9',
 };
 
 const isHex = (color = '') => color.length >= 3 && color.charAt(0) === '#';
@@ -57,7 +58,6 @@ const isRGB = memoFn(
 );
 
 const avatarBackgrounds = [
-  '#5738DF',
   '#FC5C54',
   '#FFD95A',
   '#E95D72',
@@ -151,7 +151,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
     yellow: '#FFD657', // '255, 214, 87'
     yellowFavorite: '#FFB200', // '255, 178, 0'
     yellowOrange: '#FFC400', // '255, 196, 0',
-    burple: '#5738DF',
+    bitfinity: '#752764',
   };
 
   const avatarColor = [
@@ -226,6 +226,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
     warningTint: ['#FFFDF6', '#FFFBF2'],
     white80ToTransparent: [buildRgba(base.whiteLabel, 0.8), buildRgba(base.whiteLabel, 0)],
     whiteButton: ['#FFFFFF', '#F7F9FA'],
+    bitfinity: ['#B4419B', '#752764'],
   };
 
   const sendScreen = {
@@ -315,6 +316,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
       warningTint: ['#201F1E', '#201C18'],
       white80ToTransparent: [buildRgba(base.whiteLabel, 0.8), buildRgba(base.whiteLabel, 0)],
       whiteButton: ['#404656', buildRgba('#404656', 0.8)],
+      bitfinity: ['#6AA8FF', '#1071FA'],
     };
 
     listHeaders = {
@@ -335,7 +337,7 @@ const getColorsByTheme = (darkMode?: boolean) => {
       zora: '#6183F0',
       avalanche: '#FF5D5E',
       blast: '#FCFC03',
-      bitfinity: '#5738DF',
+      bitfinity: '#752764',
     };
   }
 

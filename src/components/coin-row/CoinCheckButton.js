@@ -32,7 +32,7 @@ const CircleOutline = styled.View({
 const CheckmarkBackground = styled.View(({ theme: { colors, isDarkMode }, left }) => ({
   ...borders.buildCircleAsObject(22),
   ...padding.object(4.5),
-  backgroundColor: colors.appleBlue,
+  backgroundColor: colors.bitfinity,
   left: left || 0,
 
   ...shadow.buildAsObject(0, 4, 12, isDarkMode ? colors.shadow : colors.appleBlue, 0.4),

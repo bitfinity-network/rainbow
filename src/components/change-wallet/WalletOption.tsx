@@ -7,7 +7,11 @@ const WalletOption = ({ editMode, label, onPress, testID }: { editMode: boolean;
   const { colors } = useTheme();
   return (
     <ButtonPressAnimation disabled={editMode} onPress={onPress} scaleTo={0.96} testID={testID}>
-      <Text size="17pt" weight="semibold" color={editMode ? { custom: colors.alpha(colors.blueGreyDark, 0.2) } : 'blue'}>
+      <Text
+        size="17pt"
+        weight="semibold"
+        color={editMode ? { custom: colors.alpha(colors.blueGreyDark, 0.2) } : { custom: colors.bitfinity }}
+      >
         {label}
       </Text>
     </ButtonPressAnimation>

@@ -32,6 +32,7 @@ import { ThemeContextProps, useTheme } from '@/theme';
 import logger from 'logger';
 import { IS_ANDROID, IS_TEST } from '@/env';
 import { WelcomeScreenRainbowButton } from '@/screens/WelcomeScreen/WelcomeScreenRainbowButton';
+import BitfinityText from '@/components/icons/svg/BitfinityText';
 
 // @ts-expect-error Our implementation of SC complains
 const Container = styled.View({
@@ -68,7 +69,7 @@ const RainbowTextMask = styled(Reanimated.View)({
   width: RAINBOW_TEXT_WIDTH,
 });
 
-const animationColors = ['rgb(255,73,74)', 'rgb(255,170,0)', 'rgb(0,163,217)', 'rgb(0,163,217)', 'rgb(115,92,255)', 'rgb(255,73,74)'];
+const animationColors = ['#B4419B', '#752764', '#6AA8FF', '#1071FA', '#D763AD', '#9465FF', '#58C3FF'];
 
 export default function WelcomeScreen() {
   const insets = useSafeAreaInsets();
@@ -219,10 +220,10 @@ export default function WelcomeScreen() {
       <ContentWrapper style={contentStyle}>
         {IS_ANDROID && IS_TEST ? (
           // @ts-expect-error JS component
-          <RainbowText colors={colors} />
+          <BitfinityText colors={colors} />
         ) : (
           // @ts-expect-error JS component
-          <MaskedView maskElement={<RainbowText colors={colors} />}>
+          <MaskedView maskElement={<BitfinityText colors={colors} />}>
             <RainbowTextMask style={textStyle} />
           </MaskedView>
         )}

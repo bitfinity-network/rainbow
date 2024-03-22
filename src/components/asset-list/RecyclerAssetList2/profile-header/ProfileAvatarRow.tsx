@@ -14,10 +14,11 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { navbarHeight } from '@/components/navbar/Navbar';
 import { IS_ANDROID } from '@/env';
 import { usePersistentDominantColorFromImage } from '@/hooks/usePersistentDominantColorFromImage';
+import BitfinityBadge from '@/assets/badges/bitfinity.png';
 
 export const ProfileAvatarRowHeight = 80;
 export const ProfileAvatarRowTopInset = 24;
-export const ProfileAvatarSize = 80;
+export const ProfileAvatarSize = 70;
 
 export function ProfileAvatarRow({ size = ProfileAvatarSize }: { size?: number }) {
   // ////////////////////////////////////////////////////
@@ -46,11 +47,11 @@ export function ProfileAvatarRow({ size = ProfileAvatarSize }: { size?: number }
 
   const { colorMode } = useColorMode();
 
-  let accentColor = colors.skeleton;
+  let accentColor = colors.bitfinity;
   if (accountImage) {
-    accentColor = dominantColor || colors.appleBlue;
+    accentColor = dominantColor || colors.bitfinity;
   } else if (typeof accountColor === 'number') {
-    accentColor = colors.avatarBackgrounds[accountColor];
+    accentColor = colors.bitfinity;
   }
 
   // ////////////////////////////////////////////////////
@@ -185,7 +186,15 @@ export function ProfileAvatarRow({ size = ProfileAvatarSize }: { size?: number }
                         size={100}
                       />
                     ) : (
-                      <EmojiAvatar size={size} />
+                      // <EmojiAvatar size={size} />
+                      <Box
+                        as={ImgixImage}
+                        borderRadius={size / 2}
+                        height={{ custom: size }}
+                        source={accountImage ?? BitfinityBadge}
+                        width={{ custom: size }}
+                        size={100}
+                      />
                     )}
                   </Animated.View>
                 </>
@@ -200,9 +209,10 @@ export function ProfileAvatarRow({ size = ProfileAvatarSize }: { size?: number }
 
 export function EmojiAvatar({ size }: { size: number }) {
   const { colors } = useTheme();
-  const { accountColor, accountSymbol } = useAccountProfile();
+  const { accountColor, accountSymbol, accountImage } = useAccountProfile();
 
-  const accentColor = accountColor !== undefined ? colors.avatarBackgrounds[accountColor] : colors.skeleton;
+  // const accentColor = accountColor !== undefined ? colors.avatarBackgrounds[accountColor] : colors.skeleton;
+  const accentColor = colors.bitfinity;
 
   return (
     <AccentColorProvider color={accentColor}>

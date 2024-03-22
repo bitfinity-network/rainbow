@@ -2,7 +2,7 @@ import MaskedView from '@react-native-masked-view/masked-view';
 import React from 'react';
 import { View } from 'react-native';
 import RadialGradient from 'react-native-radial-gradient';
-import { darkModeThemeColors } from '../../../styles/colors';
+import { darkModeThemeColors, lightModeThemeColors } from '../../../styles/colors';
 import { useTheme } from '../../../theme/ThemeContext';
 import RainbowButtonTypes from './RainbowButtonTypes';
 import styled from '@/styled-thing';
@@ -11,15 +11,15 @@ import { magicMemo } from '@/utils';
 
 const RainbowGradientColorsFactory = darkMode => ({
   inner: {
-    addCash: ['#FFB114', '#FF54BB', '#00F0FF'],
-    default: darkModeThemeColors.gradients.rainbow,
+    addCash: darkMode ? darkModeThemeColors.gradients.bitfinity : lightModeThemeColors.gradients.bitfinity,
+    default: darkMode ? darkModeThemeColors.gradients.bitfinity : lightModeThemeColors.gradients.bitfinity,
     disabled: darkMode
       ? [darkModeThemeColors.blueGreyDark20, darkModeThemeColors.blueGreyDark20, darkModeThemeColors.blueGreyDark20]
       : ['#B0B3B9', '#B0B3B9', '#B0B3B9'],
   },
   outer: {
-    addCash: ['#F5AA13', '#F551B4', '#00E6F5'],
-    default: ['#F5AA13', '#F551B4', '#799DD5'],
+    addCash: darkMode ? darkModeThemeColors.gradients.bitfinity : lightModeThemeColors.gradients.bitfinity,
+    default: darkMode ? darkModeThemeColors.gradients.bitfinity : lightModeThemeColors.gradients.bitfinity,
     disabled: darkMode
       ? [darkModeThemeColors.blueGreyDark20, darkModeThemeColors.blueGreyDark20, darkModeThemeColors.blueGreyDark20]
       : ['#A5A8AE', '#A5A8AE', '#A5A8AE'],

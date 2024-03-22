@@ -30,6 +30,7 @@ import { findWalletWithAccount } from '@/helpers/findWalletWithAccount';
 import { EthereumAddress } from '@/entities';
 import { authenticateWithPIN, authenticateWithPINAndCreateIfNeeded } from '@/handlers/authentication';
 import { saveAccountEmptyState } from '@/handlers/localstorage/accountLocal';
+
 import {
   addHexPrefix,
   isHexString,
@@ -589,6 +590,7 @@ export const createWallet = async ({
     logger.info('Creating new wallet');
   }
   const walletSeed = seed || generateMnemonic();
+
   const addresses: RainbowAccount[] = [];
   try {
     const { dispatch } = store;

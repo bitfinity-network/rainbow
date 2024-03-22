@@ -9,11 +9,11 @@ export function useAccountAccentColor() {
 
   const { colors } = useTheme();
 
-  let accentColor = colors.burple;
+  let accentColor = colors.bitfinity;
   if (accountImage) {
-    accentColor = dominantColor || colors.burple;
+    accentColor = dominantColor || colors.bitfinity;
   } else if (typeof accountColor === 'number') {
-    accentColor = colors.avatarBackgrounds[accountColor];
+    accentColor = colors.bitfinity;
   }
 
   const hasLoaded = accountImage || accountSymbol;

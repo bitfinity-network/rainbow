@@ -82,7 +82,7 @@ const Avatar = styled(ImgixImage)(({ dimensions }) => ({
   width: dimensions,
 }));
 
-const ImageAvatar = ({ image, size = 'medium', onLoad = undefined, ...props }) => {
+const ImageAvatar = ({ image, size = 'medium', onLoad = undefined, local = false, ...props }) => {
   const { accentColor } = useAccountAccentColor();
   const { colors, isDarkMode } = useTheme();
   const { dimensions, shadow } = useMemo(() => sizeConfigs(accentColor, colors, isDarkMode)[size], [accentColor, colors, isDarkMode, size]);
@@ -98,9 +98,13 @@ const ImageAvatar = ({ image, size = 'medium', onLoad = undefined, ...props }) =
         <Avatar
           onLoad={onLoad}
           dimensions={dimensions}
-          source={{
-            uri: image,
-          }}
+          source={
+            local
+              ? image
+              : {
+                  uri: image,
+                }
+          }
           size={100}
         />
       </Centered>

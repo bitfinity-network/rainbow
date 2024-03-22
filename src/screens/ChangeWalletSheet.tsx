@@ -56,7 +56,7 @@ const EditButton = styled(ButtonPressAnimation).attrs(({ editMode }: { editMode:
 
 const EditButtonLabel = styled(Text).attrs(({ theme: { colors }, editMode }: { theme: any; editMode: boolean }) => ({
   align: 'right',
-  color: colors.appleBlue,
+  color: colors.bitfinity,
   letterSpacing: 'roundedMedium',
   size: 'large',
   weight: editMode ? 'bold' : 'semibold',
